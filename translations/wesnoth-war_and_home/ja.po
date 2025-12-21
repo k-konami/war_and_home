@@ -20,12 +20,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=war_and_home, type=hybrid
 #. [achievement]: id=War_And_Home
 #. [achievement_group]
-#: war_and_home/_main.cfg:40 war_and_home/achievements.cfg:128
+#: war_and_home/_main.cfg:40 war_and_home/achievements.cfg:128
 #: war_and_home/achievements.cfg:4
 msgid "War and Home"
 msgstr "戦争と故郷"
@@ -35,6 +35,7 @@ msgstr "戦争と故郷"
 msgid "WaH"
 msgstr "WaH"
 
+# for 1.1.1
 #. [campaign]: id=war_and_home, type=hybrid
 #: war_and_home/_main.cfg:52
 msgid ""
@@ -43,10 +44,10 @@ msgid ""
 "\n"
 "(Intermediate level, 43 scenarios.)"
 msgstr ""
-"新人ウェスノス人将校と、彼が道中で出会う人々と共に、"
-"新たなオークの侵攻に対する戦争で果たす役割を描いた物語。\n"
+"Wesnoth の若手将校が、道中で出会った人々と共に、新たなオークの猛攻に立ち向か"
+"おうと活躍する物語。\n"
 "\n"
-"(中級レベル, 43 シナリオ)"
+"(中級レベル、全43シナリオ）"
 
 #. [campaign]: id=war_and_home, type=hybrid
 #: war_and_home/_main.cfg:56
@@ -78,23 +79,24 @@ msgstr "大元帥"
 msgid "Hard"
 msgstr "困難"
 
+# for 1.1.1
 #. [about]
 #: war_and_home/_main.cfg:62
 msgid "Campaign design and programming (if I ever finish it... I did!)"
-msgstr "キャンペーン設計とプログラミング（もし完成したら... やったよ!）"
+msgstr "キャンペーン設計とプログラミング（もし完成したら...しました！）"
 
 #. [entry]
-#: war_and_home/_main.cfg:64 war_and_home/_main.cfg:82
+#: war_and_home/_main.cfg:64 war_and_home/_main.cfg:82
 msgid "hopelight"
 msgstr "hopelight"
 
 #. [about]
 #: war_and_home/_main.cfg:68
 msgid "Sprite used for the Winter Shyde unit"
-msgstr "Winter Shyde で使用したスプライト"
+msgstr "冬のシェードで使用したスプライト"
 
 #. [entry]
-#: war_and_home/_main.cfg:70 war_and_home/_main.cfg:76
+#: war_and_home/_main.cfg:70 war_and_home/_main.cfg:76
 #: war_and_home/_main.cfg:115
 msgid "Iris Morelle (Irydacea/shadowm)"
 msgstr "Iris Morelle (Irydacea/shadowm)"
@@ -125,8 +127,8 @@ msgid "yabuki"
 msgstr "yabuki"
 
 #. [about]
-#: war_and_home/_main.cfg:95 war_and_home/_main.cfg:104
-#: war_and_home/_main.cfg:113 war_and_home/_main.cfg:131
+#: war_and_home/_main.cfg:95 war_and_home/_main.cfg:104
+#: war_and_home/_main.cfg:113 war_and_home/_main.cfg:131
 msgid "Special Thanks"
 msgstr "特別な感謝"
 
@@ -196,181 +198,209 @@ msgstr "\"無敵の者たちの伝説(the Legend of the Invincibles)\" の作者
 msgid "Specifically for the explanation on how to make special campaign icons."
 msgstr "特に、キャンペーン専用アイコン作成方法の解説に対して."
 
+# for 1.1.1
 #. [achievement]: id=Bandit_Scum
 #: war_and_home/achievements.cfg:9
 msgid "Bandit Scum"
-msgstr "山賊のくず"
+msgstr "ザコ山賊"
 
+# for 1.1.1
 #. [achievement]: id=Bandit_Scum
 #: war_and_home/achievements.cfg:10
 msgid "Defeat the enemy in Port Assignment before the end of turns."
-msgstr "規定ターンが終了する前に、港湾内の敵を打破する。"
+msgstr "\"港町での任務\"で、ターンが終了する前に敵を倒す。"
 
+# for 1.1.1
 #. [achievement]: id=Against_All_Odds
 #: war_and_home/achievements.cfg:16
 msgid "Against All Odds"
-msgstr "すべてのオッズに対抗する"
+msgstr "逆境に抗う"
 
+# for 1.1.1
 #. [achievement]: id=Against_All_Odds
 #: war_and_home/achievements.cfg:17
 msgid "Defeat Great Chief Vrodar in Hold The Line... somehow..."
-msgstr "...どうにかして... 持ち場を守ってVrodar 大首領を打ち負かす。 "
+msgstr "\"退き口の戦い\" で、何とかして Vroder 大首領を倒す..."
 
+# for 1.1.1
 #. [achievement]: id=Lives_Well_Spent
 #: war_and_home/achievements.cfg:23
 msgid "Lives Well Spent"
-msgstr "命をよく使い果たした。"
+msgstr "有意義な人生"
 
+# for 1.1.1
 #. [achievement]: id=Lives_Well_Spent
 #: war_and_home/achievements.cfg:24
 msgid "Win Mourn Later before the orcs arrive."
-msgstr "オークどもがやってくる前に、勝って、後で悼もう。"
+msgstr "オークが到着する前に \"悼むのは脱出した後に\" に勝利する。"
 
+# for 1.1.1
 #. [achievement]: id=Settlement_Defence
 #: war_and_home/achievements.cfg:30
 msgid "Another Settlement Needs Your Help"
-msgstr "別の入植地がきみの助力を必要としている"
+msgstr "ある集落が助けを必要としている"
 
+# for 1.1.1
 #. [achievement]: id=Settlement_Defence
 #: war_and_home/achievements.cfg:31
 msgid ""
 "During A Lone Village, no village within the town is captured and some of "
 "the town militia survives."
-msgstr ""
-"村が孤立している間、街の中にある村が奪取されず、"
-"いく人かの都市防衛隊が生き残った。"
+msgstr "\"孤立した村\" で、どの村も占領されずに、少しでも民兵が生き残る。"
 
+# for 1.1.1
 #. [achievement]: id=Elensefar_Unconquered
 #: war_and_home/achievements.cfg:37
 msgid "Elensefar Unconquered"
-msgstr "征服されてないElensefar"
+msgstr "征服されない Elensefar"
 
+# for 1.1.1
 #. [achievement]: id=Elensefar_Unconquered
 #: war_and_home/achievements.cfg:38
 msgid "No enemy unit enters the city during Elensefar."
-msgstr "Elensefar戦の間、都市に敵兵が入らなかった。"
+msgstr "\"Elensefar\" で、一切の敵ユニットを町へ侵入させない。"
 
+# for 1.1.1
 #. [achievement]: id=Fast_For_a_Dwarf
 #: war_and_home/achievements.cfg:44
 msgid "Fast (For a Dwarf)"
-msgstr "早く (ドワーフへ)"
+msgstr "速攻（ドワーフのために）"
 
+# for 1.1.1
 #. [achievement]: id=Fast_For_a_Dwarf
 #: war_and_home/achievements.cfg:45
 msgid ""
 "Relieve the siege of Dwarven Doors before Knalgan reinforcements arrive."
-msgstr ""
-"Knalganの増援が到着する前にドワーフのドアの包囲戦から救出する。"
+msgstr "Knalga の援軍が来る前に、ドワーフの戸口の包囲を打破する。"
 
+# for 1.1.1
 #. [achievement]: id=Story_1
 #: war_and_home/achievements.cfg:63
 msgid "Bright Beginnings"
-msgstr "光の始まり"
+msgstr "輝かしい第一歩"
 
+# for 1.1.1
 #. [achievement]: id=Story_1
 #: war_and_home/achievements.cfg:64
 msgid "Take the first steps toward destiny."
-msgstr "運命に向かって最初の一歩を選択する。"
+msgstr "運命の第一歩を踏み出す。"
 
+# for 1.1.1
 #. [achievement]: id=Story_2
 #: war_and_home/achievements.cfg:70
 msgid "The Forest's Tears"
 msgstr "森の涙"
 
+# for 1.1.1
 #. [achievement]: id=Story_2
 #: war_and_home/achievements.cfg:71
 msgid "Reach Lintanir and escape the fallen city."
-msgstr "Lintanirに到達し、都市の陥落から逃れる。"
+msgstr "Lintanir に到着後、陥落した街から脱出する。"
 
 #. [achievement]: id=Story_3
 #. [scenario]: id=11_Mourn_Later
-#: war_and_home/achievements.cfg:77
-#: war_and_home/scenarios/11_Mourn_Later.cfg:5
+#: war_and_home/achievements.cfg:77 war_and_home/scenarios/11_Mourn_Later.cfg:5
 msgid "Mourn Later"
 msgstr "悼むのは脱出した後に"
 
+# for 1.1.1
 #. [achievement]: id=Story_3
 #: war_and_home/achievements.cfg:78
 msgid "Evade the pursuing orcs... though not without paying a price."
-msgstr "追ってくるオークどもから脱出する... 代償を払いながらも。"
+msgstr "追撃するオークから逃げる...代償を払うかもしれないけど。"
 
+# for 1.1.1
 #. [achievement]: id=Story_4
 #: war_and_home/achievements.cfg:84
 msgid "Boating Trip"
-msgstr "舟の旅"
+msgstr "船を使った小旅行"
 
+# for 1.1.1
 #. [achievement]: id=Story_4
 #: war_and_home/achievements.cfg:85
 msgid "Leave Lintanir in an amphibious fashion."
-msgstr ""
+msgstr "水路と陸路を使って Lintanir から脱出する。"
 
+# for 1.1.1
+# 暫定
 #. [achievement]: id=Story_5
 #: war_and_home/achievements.cfg:91
 msgid "Fight Another Day"
-msgstr "別の日に戦う"
+msgstr "今日の戦闘はここまで"
 
+# for 1.1.1
 #. [achievement]: id=Story_5
 #: war_and_home/achievements.cfg:92
 msgid "Return to the safety of Wesnoth's heartlands."
-msgstr "Wesnothの中心地に無事に戻る。"
+msgstr "安全な、Wesnoth の中心へ帰還する。"
 
+# for 1.1.1
 #. [achievement]: id=Story_6
 #: war_and_home/achievements.cfg:98
 msgid "Blighted Land"
-msgstr "荒廃した土地"
+msgstr "荒れ果てた地"
 
+# for 1.1.1
 #. [achievement]: id=Story_6
 #: war_and_home/achievements.cfg:99
 msgid ""
 "Travel through the lifeless land, meet new companions and receive a new "
 "chance at life."
-msgstr ""
-"生命なき土地を通り、新しい友人と新しい生命のチャンスを得る。"
+msgstr "死に絶えた地を進んで新たな仲間に出会い、生き延びる機会を手にする。"
 
+# for 1.1.1
 #. [achievement]: id=Story_7
 #: war_and_home/achievements.cfg:107
 msgid "Return to Wesnoth"
 msgstr "Wesnoth への帰還"
 
+# for 1.1.1
 #. [achievement]: id=Story_7
 #: war_and_home/achievements.cfg:108
 msgid "Return to Wesnoth and begin the counterattack."
-msgstr "Wesnothへの帰還、そして反攻を開始する。"
+msgstr "Wesnoth へ戻って反撃を開始する。"
 
+# for 1.1.1
 #. [achievement]: id=Story_8
 #: war_and_home/achievements.cfg:114
 msgid "Reunion at Last"
-msgstr "ついに再会す"
+msgstr "待望の再会"
 
+# for 1.1.1
 #. [achievement]: id=Story_8
 #: war_and_home/achievements.cfg:115
 msgid "Defend the realm's coast and reunite the groups."
-msgstr "王国の海岸を防衛し、再び集う。"
+msgstr "領土内の海岸を防衛して、他のグループと再結集する。"
 
+# for 1.1.1
 #. [achievement]: id=Story_9
 #: war_and_home/achievements.cfg:121
 msgid "Long March to Lintanir"
-msgstr "Lintanir への長征"
+msgstr "Lintanir への遥かな行軍"
 
+# for 1.1.1
 #. [achievement]: id=Story_9
 #: war_and_home/achievements.cfg:122
 msgid "Head north and free Lintanir from all those who would despoil it."
-msgstr "北に向かい、Lintanirを奪った勢力から開放する。"
+msgstr "北へ進軍して、 略奪を謀る者たちから Lintanir を解放する。"
 
+# for 1.1.1
 #. [achievement]: id=War_And_Home
 #: war_and_home/achievements.cfg:129
 msgid "Defeat Great Chief Vrodar and win the campaign."
-msgstr "Vrodar 大首領を打ち負かし、この一連の戦いに勝利する"
+msgstr "Vroder 大首領を倒してキャンペーンに勝利する。"
 
+# for 1.1.1
 #. [achievement]: id=War_And_Home_Hard
 #: war_and_home/achievements.cfg:135
 msgid "True Victory"
-msgstr "真なる勝利"
+msgstr "真の勝利"
 
+# for 1.1.1
 #. [achievement]: id=War_And_Home_Hard
 #: war_and_home/achievements.cfg:136
 msgid "Complete the campaign on the hardest difficulty."
-msgstr "難易度困難で、この一連の戦いを終える"
+msgstr "このキャンペーンを最高難度（困難）で制覇する。"
 
 #. [scenario]: id=01_Rescue
 #: war_and_home/scenarios/01_Rescue.cfg:5
@@ -462,7 +492,7 @@ msgstr ""
 "Caror とは幼い頃からの親友で、僕たち子供の中で一番強く、それなのにとても頭が"
 "良い少年でした。\n"
 "\n"
-"彼は友達作りが上手で、時には見知ら人とも親しくなり過ぎるくらいです。\n"
+"彼は友だち作りが上手で、時には見知ら人とも親しくなり過ぎるくらいです。\n"
 "\n"
 "その力強さから重歩兵として有望視されていましたが、決して賢くないわけではあり"
 "ませんでした。"
@@ -692,8 +722,8 @@ msgid ""
 "(<i>Mumbling</i>) Brother, could you please stop dishonoring our line every "
 "time you speak..."
 msgstr ""
-"（<i> ブツクサと </i>）お兄さま、喋るたびに私達の品位を汚すのは、やめてもらえ"
-"ないかしら...。"
+"（<i> ブツクサと </i>）お兄さま、喋るたびに私たちの品位を汚すのは、やめてもら"
+"えないかしら...。"
 
 #. [message]: speaker=HG1
 #: war_and_home/scenarios/02_A_Practice_Bout.cfg:188
@@ -722,7 +752,7 @@ msgstr "さあ終わりだ、訓練生たちが勝ち誇っているようだ！
 #. [message]: speaker=MC
 #: war_and_home/scenarios/02_A_Practice_Bout.cfg:250
 msgid "Perhaps we are not that bad, now are we?"
-msgstr "もしかして私達は、意外と使え...ますよね？"
+msgstr "もしかして私たちは、意外と使え...ますよね？"
 
 #. [message]: speaker=NG
 #: war_and_home/scenarios/02_A_Practice_Bout.cfg:254
@@ -1004,7 +1034,7 @@ msgstr ""
 "その後、北方エルフの訓練と、オークの活動活発化や新たな大族長の台頭の報告を確"
 "認するため、その軍隊と共に Lintanir に向かうことになりました。\n"
 "\n"
-"しかし、エルフもオークも、まさか川の北側で最初の敵となることはないだろうと"
+"しかし、エルフもオークが、まさか川の北側で最初の敵となることはないだろうと"
 "思っていました。"
 
 #. [part]
@@ -1112,16 +1142,17 @@ msgstr ""
 msgid "Argh! What was that!?"
 msgstr "アッ！　今のは何だ？"
 
+# for 1.1.1
 #. [message]: type=Orcish Nightblade
 #: war_and_home/scenarios/04_Road_To_Lintanir.cfg:251
-#, fuzzy
 msgid "Ha! They fell for our ambush, the fools!"
 msgstr "ハーッ！　待ち伏せに引っかかったぜ、バカタレめ！"
 
+# for 1.1.1
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/04_Road_To_Lintanir.cfg:255
 msgid "<span size='large'>cough* *cough* Orcs! To arms!</span>"
-msgstr "<span size='large'><i>ゴホッ ゴホッ </i> オークどもだ！武器を取れ！</span>"
+msgstr "<span size='large'> ゴホッ ゴホッ オークどもだ！武器を取れ！</span>"
 
 #. [message]: speaker=CF
 #: war_and_home/scenarios/04_Road_To_Lintanir.cfg:264
@@ -1231,11 +1262,12 @@ msgstr ""
 msgid "No! The city is lost!"
 msgstr "なに！？　街が無いぞ！"
 
+# for 1.1.1
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:303
 msgid ""
 "We are close to the city yet haven't met any sentinel... Stay on your guard."
-msgstr "街に近いが衛兵には遭遇していない... 油断するな。"
+msgstr "街に近いのに衛兵の姿が見えないな... 油断するなよ。"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:316
@@ -1243,7 +1275,7 @@ msgid ""
 "Poor Oweomyr, we won't be able to rush in and meet the wonderful elven "
 "princess awaiting us... How hard can a noble's life get..."
 msgstr ""
-"Oweomyr が可愛そうだね、我々は、突入して、素敵な王女様に謁見できそうにない、"
+"Oweomyr が可愛そうだね。我々は突入しても、素敵な王女様に謁見できそうにない、"
 "お待ちになってるというのに... 貴族の生活は、なんとも厳しいものだな..."
 
 #. [message]: speaker=NG
@@ -1285,6 +1317,7 @@ msgstr "街に向かうぞ！さあ！"
 msgid "Finally, reinforcements!"
 msgstr "ついに援軍が来ましたぞ！"
 
+# for 1.1.1
 #. [message]: speaker=EL
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:389
 msgid ""
@@ -1293,16 +1326,17 @@ msgid ""
 "every royal but the princess is dead, however the orcs have breached the "
 "palace and we have lost contact with her retinue!"
 msgstr ""
-"オークが1ヶ月もの間、我々を包囲し続けている。そして、我々は兵力不足だ。ドルイ"
-"ド僧とレンジャーの残りは、ここから北の方で包囲されている。王女以外の貴族は全"
-"員討ち死にし、それでもオークは宮殿を破壊して、王女の従者との連絡も絶たれてし"
-"まった！"
+"オークが1ヶ月もの間、我々を包囲し続けている。しかも、我々は兵力不足だ。ドルイ"
+"ド僧とレンジャーの残りは、ここから北の方で包囲されている一方、王女以外の王族"
+"は全員討ち死にした。それでもオークは宮殿を破壊して、王女の従者との連絡も絶た"
+"れてしまった！"
 
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:393
 msgid "Break the siege! Get to the palace!"
 msgstr "包囲網を打ち破れ！宮殿へ向かえ！"
 
+# for 1.1.1
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:408
 msgid ""
@@ -1352,7 +1386,7 @@ msgstr ""
 #. [message]: speaker=EL
 #: war_and_home/scenarios/05_A_City_Besieged.cfg:480
 msgid "How!? How can they have even more troops!?"
-msgstr "どうすればよいの！？　どうすれば、これ以上の軍隊を持てるのでしょう！？"
+msgstr "どうすればよいのだ！？　どうすれば、これ以上の軍隊を持てるのだ！？"
 
 #. [scenario]: id=06_Evacuate
 #: war_and_home/scenarios/06_Evacuate.cfg:5
@@ -1454,7 +1488,7 @@ msgid ""
 "are too strong for us."
 msgstr ""
 "こんなことを言うのは不本意ですが、すぐにも遂行するべきでしょう。北の勢力は強"
-"すぎて、私達では敵いません。"
+"すぎて、私たちでは敵いません。"
 
 #. [message]: speaker=NB
 #: war_and_home/scenarios/06_Evacuate.cfg:343
@@ -1469,7 +1503,7 @@ msgstr "人間たちよ、失われた光に感謝を！王女様は、もっと
 #. [message]: speaker=MC
 #: war_and_home/scenarios/06_Evacuate.cfg:368
 msgid "Understood. Come with us for now, it'll be easier to get her out."
-msgstr "はい。私達と今すぐ行きましょう、あの方を連れ出すのは簡単なことです。"
+msgstr "はい。私たちと今すぐ行きましょう、あの方を連れ出すのは簡単なことです。"
 
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/06_Evacuate.cfg:374
@@ -1489,8 +1523,8 @@ msgid ""
 "we sepak."
 msgstr ""
 "私たちは Wesnoth 軍の者です。あなた方の軍隊と、ここで合流する予定でした。いず"
-"れにしろ、この場所は耐えられそうにありませんし、お話したように私達の軍が街を"
-"守っている最中です。"
+"れにしろ、この場所は耐えられそうにありませんし、お話したように私たちの軍が街"
+"を守っている最中です。"
 
 #. [message]: speaker=EN
 #: war_and_home/scenarios/06_Evacuate.cfg:439
@@ -1506,9 +1540,9 @@ msgid ""
 "and take it back later. (<i>Looks at his two friends</i>) Instead of "
 "gawking, could you maybe help convince them?"
 msgstr ""
-"そんな人員も時間も私達にはありません、一旦、宮殿から避難し、あらためて取り戻"
-"すしかないのです。（<i>友人二人を見て </i>）おいおい、見とれてないで、説得す"
-"るのを手伝ってくれないのか？"
+"そんな人員も時間も私たちにはありません、一旦、宮殿から避難し、あらためて取り"
+"戻すしかないのです。（<i>友人二人を見て </i>）おいおい、見とれてないで、説得"
+"するのを手伝ってくれないのか？"
 
 #. [message]: speaker=NB
 #: war_and_home/scenarios/06_Evacuate.cfg:447
@@ -1560,8 +1594,8 @@ msgid ""
 "Thank you for keeping them safe, gracious knight. Isandir shall assist your "
 "kind in coordinating with us."
 msgstr ""
-"彼らを守ってくれたことに感謝しましょう、優しき騎士よ。今後は Isandir が我々と"
-"連携しながら、あなたを補佐します。"
+"彼らを守ってくれたことに感謝しましょう、心優しき騎士よ。今後は Isandir が我々"
+"と連携しながら、あなたを補佐します。"
 
 #. [message]: speaker=EN
 #: war_and_home/scenarios/06_Evacuate.cfg:517
@@ -1586,9 +1620,9 @@ msgid ""
 "communications, if that is alright with you."
 msgstr ""
 "（<i>ブツクサと </i>）あの二人はすごいな...（<i>王女に語りかける </i>）そちら"
-"の方々が集合するまでの間、そちらの兵のために私達の仲間の中から治療師を探して"
-"おきます。Oweomyr があなたにお供いたしますので、意思の疎通をお図りください、"
-"もしよろしければ、ですが。"
+"の方々が集合するまでの間、そちらの兵のために私たちの仲間の中から治療師を探し"
+"ておきます。Oweomyr があなたにお供いたしますので、意思の疎通をお図りくださ"
+"い、もしよろしければ、ですが。"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/06_Evacuate.cfg:538
@@ -1662,7 +1696,7 @@ msgstr "ああ、神よ。"
 #. [message]: speaker=EP
 #: war_and_home/scenarios/07_The_North_Fall.cfg:332
 msgid "Eärindel, no!"
-msgstr "Eärindel 、そんな！"
+msgstr "Eärindel、そんな！"
 
 #. [message]: speaker=BB
 #: war_and_home/scenarios/07_The_North_Fall.cfg:336
@@ -1672,7 +1706,7 @@ msgstr "もう十分だろう。今日、Lintanir は陥落ぞ！"
 #. [message]: speaker=EL
 #: war_and_home/scenarios/07_The_North_Fall.cfg:363
 msgid "I'm sorry, Princess..."
-msgstr "残念です、王女様..."
+msgstr "申し訳ございません、王女様..."
 
 #. [message]: speaker=B1
 #: war_and_home/scenarios/07_The_North_Fall.cfg:372
@@ -1695,7 +1729,7 @@ msgid ""
 "mentor</i>) E—Eärindel, how..."
 msgstr ""
 "（<i>恩師を失ったことに心から衝撃を受け、その場に立ちすくむ王女 </i>） E... "
-"Eärindel 、どうして...。"
+"Eärindel、どうして...。"
 
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/07_The_North_Fall.cfg:385
@@ -1881,7 +1915,7 @@ msgstr ""
 #. [message]: speaker=EP
 #: war_and_home/scenarios/08_Flight_Through_The_Woods.cfg:222
 msgid "N—no! Oh lords please no..."
-msgstr "いや——！　お願いだから、やめなさい..."
+msgstr "やめなさい！　お願いだから、やめて..."
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/08_Flight_Through_The_Woods.cfg:232
@@ -1904,11 +1938,12 @@ msgstr ""
 "あいつは今、多すぎるほどの援軍を呼べる。このまま彼を倒すのは無理だ。さあみん"
 "な、南へ向かうんだ！"
 
+# for 1..1.1 /jp
 #. [message]: speaker=B4
 #: war_and_home/scenarios/08_Flight_Through_The_Woods.cfg:279
 msgid "No! I will not disappoint Chief Vrodar! I will return, scum!"
 msgstr ""
-"Vrodar 首領を裏切るわけにはいかねえ！オレは戻ってくるからな、クズどもめ！"
+"Vrodar 首領を失望させちゃあなんねえ！オレは戻ってくるからな、クズどもめ！"
 
 #. [message]: speaker=unit
 #: war_and_home/scenarios/08_Flight_Through_The_Woods.cfg:294
@@ -1969,27 +2004,26 @@ msgstr "俺が死のうが関係ねえよ、主力隊が2､3日で着いて、�
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:184
 msgid "The flames of my kin shall avenge me!"
-msgstr "我が一族の火サーいがオレの敵を討つ！"
+msgstr "オレの一族のヒの固まりが、オレの仇を討ってくれる！"
 
+# for 1.1.1
 #. [message]: speaker=B4
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:198
-#, fuzzy
 msgid "You have lost your lead! Now, you will fall!"
-msgstr "お前ら、勢いがなくなっちまった！　これでお終いだな！"
+msgstr "お前ら、そろそろヤバいだろ！　これでお終いだな！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:202
-#, fuzzy
 msgid ""
 "With their forces spread throughout the mountains, he'll be easier to take "
 "down here."
-msgstr "奴らの軍勢は山中に広がっていて、ここなら簡単に倒せるな。"
+msgstr "奴らの軍勢は山全体に広がっていて、ここなら簡単に倒せるな。"
 
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:217
 msgid "You ssstand on the land of the Darkanor Tribe, pay tribute or die!"
-msgstr ""
-"お前は Darkanor 族の土地に、立ってるぞ。貢ぎ物を出スーか、シーぬかだゾ！"
+msgstr "お前は Darkanor 族の土地に立ってるんだ。貢ぎ物を出すか、シーぬかだゾ！"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:221
@@ -1997,13 +2031,13 @@ msgid ""
 "(<i>Bowing respectfully</i>) We meant no offense, o fiery one. We seek only "
 "refuge from these monsters."
 msgstr ""
-"<i>（敬意を表してお辞儀して ）</i>悪気はありません、炎のようなお方。私達は、"
-"あそこにいる怪物からの避難場所を探しているのです。"
+"<i>（敬意を表してお辞儀し、） </i>悪気はありません、炎のようなお方。私たち"
+"は、あそこにいる怪物からの避難場所を探しているのです。"
 
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:225
 msgid "Your plight matters not, only your trespassss does."
-msgstr "そちらが困っていようが関係無い、シー 侵入してるぞ。"
+msgstr "そちらが困っていようが関係無い、シーン入してるぞ。"
 
 #. [message]: speaker=EN
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:229
@@ -2082,7 +2116,7 @@ msgid ""
 "Tribute hasss been paid and my duty isss done. I sssuggest leaving our lands "
 "soon."
 msgstr ""
-"貢ぎ物は貰ったシー、オレのシー事は終わった。サーッさと立ちサーってくれよな。"
+"貢ぎ物は貰ったシー、オレのシー事は終わった。サーッさと立ちサーってくれ。"
 
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/09_Lose_The_Orcs.cfg:424
@@ -2105,11 +2139,13 @@ msgid ""
 "ever make!"
 msgstr "Darkanor 族を侮ったのが、お前らの侵シーたサーい大の過ちだったな！"
 
+# for 1.1.1
 #. [scenario]: id=10b_Unexpected_End
 #: war_and_home/scenarios/10B_Unexpected_End.cfg:5
 msgid "Unexpected End"
-msgstr ""
+msgstr "予期せぬ終焉"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/10B_Unexpected_End.cfg:65
 msgid ""
@@ -2120,7 +2156,14 @@ msgid ""
 "This unimaginable opportunity was used to its full effect, as the armies of "
 "Wesnoth and elvenkind pursued the orcs back to the Far North."
 msgstr ""
+"あらゆる麺で不利であったにも関わらず、Turod と Oweomyr のオークへの必死の後衛"
+"戦によってオークの大族長 Vrodar は倒れ、その後数カ月に及ぶ内紛の末にオークの"
+"侵攻軍は崩壊しました。\n"
+"\n"
+"この、想像を絶する好機は最大限に活かされ、Wesnoth とエルフ族の同盟軍がオーク"
+"を極北の地まで後退させる結果となりました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/10B_Unexpected_End.cfg:70
 msgid ""
@@ -2132,7 +2175,14 @@ msgid ""
 "of this valiant battle, for there had come two new legends to stand in the "
 "pantheon of history's heroes."
 msgstr ""
+"Turod と Oweomyr の勝因が、武力、磨き抜かれた戦術、神の加護、そのいずれであっ"
+"たか、もはや知る術はありませんでした。というのも、オークは報復として、生存者"
+"全員を抹殺したからです。\n"
+"\n"
+"しかし、この勇敢な戦いを語る吟遊詩人たちの熱意までは奪えませんでした。歴史の"
+"英雄たちの殿堂に、新たに二つの伝説が加わったのですから。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/10B_Unexpected_End.cfg:75
 msgid ""
@@ -2146,6 +2196,14 @@ msgid ""
 "had lost and would never see again, they kept diligently to their duties, "
 "all the better to ensure that the lives lost would be well-spent."
 msgstr ""
+"亡くなった２人以外の者たちは、市民を守ろうと反撃を指揮するなど、それぞれが担"
+"うべき役割を懸命に果たしました。Caror もその一人ですが、生き残ったエルフたち"
+"とともに、Merlyc で主力軍に復帰したのです。\n"
+"\n"
+"彼らは勇敢に戦い、その働きに見合った平和を享受することができました。\n"
+"\n"
+"失った者たちを思い、悲しみや、再会したいという叶わぬ願いを胸一杯に抱えながら"
+"も、彼らはなお責務を果たし続けました。失われた多くの命を無駄にしないために。"
 
 #. [scenario]: id=10_Hold_The_Line
 #: war_and_home/scenarios/10_Hold_The_Line.cfg:5
@@ -2290,14 +2348,15 @@ msgstr ""
 msgid "Well then, make yourself at home."
 msgstr "まあ、好きにしてくれ。"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/10_Hold_The_Line.cfg:403
-#, fuzzy
 msgid ""
 "This was a long chase but it shall end soon. Kill them all and then hunt "
 "down the rest!"
 msgstr ""
-"長い追跡だったが、もうすぐ終わりだ。全員ぶっ殺して、残りを追っかけるぞ!"
+"長い追跡だったが、もうすぐ終わりだ。全員ぶっ殺して、ほかの奴らも追っかけて"
+"ぶっ潰しちまえ！"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/10_Hold_The_Line.cfg:407
@@ -2575,7 +2634,7 @@ msgid ""
 "Your ssstand wass dignified and impressed the flameborn. They have decided "
 "to reward itsss bravery."
 msgstr ""
-"あなたの立ちスーがたは凛々シーかった、炎の民を感動さセーた。その勇シーに報い"
+"あなたの立ちスーがたは凛々シーかった、炎の民を感動サーせた。その勇シーに報い"
 "ることに決めた。"
 
 #. [message]: speaker=NB
@@ -2641,7 +2700,7 @@ msgid ""
 "Caror headed north to help relieve Lintanir's shamans from the orcish "
 "onslaught."
 msgstr ""
-"Turod 、Oweomir 、Merynian の3人が王女の脱出を手助けしている間、Caror は "
+"Turod 、Oweomyr 、Merynian の3人が王女の脱出を手助けしている間、Caror は "
 "Lintanir の呪術師をオークの猛攻から救うため北へと向かっていました。"
 
 #. [part]
@@ -2681,7 +2740,8 @@ msgstr ""
 #: war_and_home/scenarios/12_Help_The_Shamans.cfg:199
 msgid ""
 "The sounds of battle, horns and metal striking metal, resound from the north."
-msgstr "北の方からは、角笛の音や金属同士がぶつかり合う戦闘の音が響いてきます。"
+msgstr ""
+"北の方からは、ラッパの音や金属同士がぶつかり合う戦闘の音が響いてきます。"
 
 #. [message]: speaker=CF
 #: war_and_home/scenarios/12_Help_The_Shamans.cfg:203
@@ -2762,7 +2822,7 @@ msgstr ""
 #. [message]: speaker=CF
 #: war_and_home/scenarios/12_Help_The_Shamans.cfg:311
 msgid "Understood ma'am, we'll help get rid of the orcs."
-msgstr "了解です、奥様。オーク撃退のお手伝いをします。"
+msgstr "承知しました、御婦人。オーク撃退のお手伝いを致しましょう。"
 
 #. [message]: speaker=OL1
 #: war_and_home/scenarios/12_Help_The_Shamans.cfg:331
@@ -3122,7 +3182,7 @@ msgid ""
 "Chapter Fifteen\n"
 "<i>A Brief Respite</i>"
 msgstr ""
-"第14章\n"
+"第15章\n"
 "<i>束の間の休息 </i>"
 
 #. [message]: speaker=CF
@@ -3238,7 +3298,7 @@ msgid ""
 "Chapter Sixteen\n"
 "<i>To The Harbour</i>"
 msgstr ""
-"第17章\n"
+"第16章\n"
 "<i>港へ向かう </i>"
 
 #. [message]: speaker=EA
@@ -3658,7 +3718,7 @@ msgstr ""
 #. [message]: speaker=EP
 #: war_and_home/scenarios/20_Arrival_And_Warning.cfg:210
 msgid "We thank you for your steadfast support."
-msgstr "陛下の確固たるご支援に感謝いたします。"
+msgstr "陛下の揺るぎないご支援に感謝いたします。"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/20_Arrival_And_Warning.cfg:264
@@ -4174,8 +4234,8 @@ msgid ""
 "\n"
 "I agreed and we proceeded to the next destination, a remote monastery nearby."
 msgstr ""
-"Haldar たちのキャンプの一つで、何人かの治療師が僕のこの奇妙な衰弱を救おうと手"
-"を尽くしてくれたのですが、無駄でした。\n"
+"Haldar たちのキャンプの一つで、何人かの治療師が僕のこの奇妙に衰弱した体を救お"
+"うと手を尽くしてくれたのですが、無駄でした。\n"
 "\n"
 "その後、Haldar は僕に、彼の部下たちの巡回警護が終わるまで同行してから後、救い"
 "の手を差し伸べてくれる賢者の所へ行けば、彼らが僕を王国へ連れて行ってくれるだ"
@@ -4303,8 +4363,8 @@ msgid ""
 "Y—yes, I am all right, thanks to you... He—he would have killed me... Oh "
 "lords...."
 msgstr ""
-"はい、大丈夫です、ありがとうございます...　か、彼に殺されるところでした... あ"
-"あ、なんてこと......"
+"は、はい、大丈夫です、ありがとうございます...　か、彼に殺されるところでし"
+"た... ああ、なんてこと......"
 
 #. [message]: speaker=HR
 #: war_and_home/scenarios/24_A_Child_Of_Light.cfg:292
@@ -4332,8 +4392,8 @@ msgstr "(<i>抱きしめて慰めようとする </i>) 大丈夫だからね..."
 msgid ""
 "(<i>Crying in his arms</i>) Th—They are all dead... Nooo, everyone, why..."
 msgstr ""
-"(<i>腕の中で泣きながら </i>) みんな、死んじゃったんです... いやよ、みんな、ど"
-"うして..."
+"(<i>腕の中で泣きながら </i>) み、みんな、死んじゃったんです... いやよ、みん"
+"な、どうして..."
 
 #. [scenario]: id=25_A_Lone_Village
 #: war_and_home/scenarios/25_A_Lone_Village.cfg:6
@@ -4360,7 +4420,7 @@ msgid ""
 "priest either."
 msgstr ""
 "僕が Elaessa を精一杯慰めている間、Haldar は修道院の残りの部分を探したけれ"
-"ど、虚しい結果となりました。生存者は、見つかりませんでした。\n"
+"ど、虚しい結果となりました。生存者は見つかりませんでした。\n"
 "\n"
 "修道院の外では、彼の手下たちが残りのオークを始末したが、司祭さえ見つからな"
 "かったのです。"
@@ -4855,8 +4915,8 @@ msgid ""
 "(<i>Dragging Turod</i>) Yes, but please help, something happened and Turod's "
 "curse was lifted but his wounds returned!"
 msgstr ""
-"(<i> Turod を引き摺りながら </i>) ええ、でも手助けをお願いします、何かが起き"
-"て Turod 様の呪いは解けたんですけど、傷が、またぶり返してしまったの！"
+"(<i> Turod を引き摺りながら </i>) ええ、でも手助けをお願いします。何かが起き"
+"て Turod 様の呪いは解けたんですけど、傷がまた痛み出してしまったの！"
 
 #. [message]: speaker=HR
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:599
@@ -4872,15 +4932,14 @@ msgstr ""
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:647
 msgid "We have lost 'em, fall back and guard the entrance, they won't get out!"
 msgstr ""
-"奴らを見失っちまった、一旦戻って、入り口を警護しろ、奴らは外には出ないだろ"
-"う！"
+"奴らを見失っちまった、一旦戻って入り口を警護しろ、奴らは外には出ないだろう！"
 
 #. [message]: speaker=WM
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:651
 msgid "We won't be able to get back... Please lords, help us find a way out."
 msgstr ""
-"私たち、もう後戻りはできませんよね... Turod様、どうか出口へ辿り着かせてくださ"
-"い。"
+"私たち、もう後戻りはできませんよね... 神さま、どうか 私たちを出口へ辿り着かせ"
+"てください。"
 
 #. [message]: speaker=HR
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:692
@@ -4899,7 +4958,7 @@ msgstr "何か ― 何か悪い予感が、悪いことが起きそうな予感�
 #. [message]: speaker=WM
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:767
 msgid "Turod, w—what is it?"
-msgstr "Turod 様、一体、どうなされたんですか？"
+msgstr "Turod 様、い、一体、どうなされたんですか？"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:796
@@ -4932,7 +4991,7 @@ msgid ""
 "a thinking one perhaps, but a puppet nonetheless."
 msgstr ""
 "最後まで耐え抜いた愚か者よ、哀れなものだ。お前はもう、ただの操り人形となっ"
-"た。考えることはできても、それでも操り人形に過ぎないのだ。"
+"た。考えることはできても、やはり操り人形に過ぎないのだ。"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:820
@@ -4945,8 +5004,8 @@ msgid ""
 "Thank you for holding on until the end... Let us hope we shall have a better "
 "fate one day..."
 msgstr ""
-"最後まで耐え抜かれたことに感謝いたします... いつの日か、もう少し良い運命の元"
-"でお逢いしましょう..."
+"最後まで耐え抜かれたことに感謝いたします... いつの日か、もう少し幸せな運命の"
+"元でお逢いできるとよいですね..."
 
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:864
@@ -4960,7 +5019,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:887
 msgid "Good. Now, assemble an army and kill this orc scum!"
-msgstr "よーし、ほれ、軍をなして、オークのクズどもを成敗せよ！"
+msgstr "よーし、ほれ、軍を引き連れて、オークのクズどもを成敗せよ！"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:897
@@ -5073,9 +5132,9 @@ msgstr ""
 "...ここは傷つき悩める者の避難所だ。お前たちの居場所は無い、悪しきアンデッド"
 "よ。"
 
+# for 1.1.1
 #. [message]
 #: war_and_home/scenarios/27_Into_The_Dark.cfg:1083
-#, fuzzy
 msgid ""
 "You are nothing more than a fading remnant of a long-lost soul! You have "
 "almost no power left!"
@@ -5191,7 +5250,7 @@ msgid ""
 "I had rapidly fallen unconscious once more, and Haldar and Elaessa had to "
 "carry me out of the tunnels."
 msgstr ""
-"僕は、またもや突如、意識を失ってしまいました。Hadlar と Elaessa は、僕を担い"
+"僕は、またもや突如、意識を失ってしまいました。Haldar と Elaessa は、僕を担い"
 "で洞窟の外へと運び出さねばなりませんでした。"
 
 #. [part]
@@ -5214,8 +5273,8 @@ msgid ""
 "Oh, Turod, you woke up! Haldar's friend healed you, you should be all right "
 "now!"
 msgstr ""
-"あっ、 Turod 様、目が覚めましたね！ Haldar のお友達が治療しくれたのです、もう"
-"大丈夫ですわ！"
+"あっ、 Turod 様、目が覚めましたね！ Haldar のお友だちが治療しくれたのです、も"
+"う大丈夫ですわ！"
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/28_Back_From_The_Brink.cfg:114
@@ -5250,8 +5309,8 @@ msgid ""
 "A—And anyway, I wouldn't know where to go once there, though..."
 msgstr ""
 "本当ですか？ わ、私はまだ行ったことがなくて。生まれてからずっと修道院で過ごし"
-"てきたもので...  行ってみたとしても、その後どうすればいいかすら分からないです"
-"し..."
+"てきたもので...  い、行ってみたとしても、その後どうすればいいかすら分からない"
+"ですし..."
 
 #. [message]: speaker=MC
 #: war_and_home/scenarios/28_Back_From_The_Brink.cfg:130
@@ -5414,7 +5473,8 @@ msgstr "よし、準備しよう — （<i>Elaessa に </i>）戦う準備はい
 msgid ""
 "Y—yes, and with the spells Elzear taught me, I'll be able to help far more "
 "than before!"
-msgstr "は、はい、Elzear から教わった呪文で、前よりもずっとお役に立てますよ！"
+msgstr ""
+"は、はい、Elzear から教わった呪文を使えば、前よりもずっとお役に立てますよ！"
 
 #. [message]: speaker=BL1
 #: war_and_home/scenarios/29_A_Haven_Assaulted.cfg:340
@@ -5650,7 +5710,7 @@ msgstr ""
 #. [message]: speaker=ES
 #: war_and_home/scenarios/31_Return_To_Wesnoth.cfg:265
 msgid "...Wolfie? ...Haldar?"
-msgstr "あら、 ...Wolfie ？ ...Halder じゃない?"
+msgstr "あら、 ...Wolfie ？ ...Haldar じゃない?"
 
 #. [message]: speaker=HR
 #: war_and_home/scenarios/31_Return_To_Wesnoth.cfg:269
@@ -5660,7 +5720,7 @@ msgstr "Anówien ？"
 #. [message]: speaker=ES
 #: war_and_home/scenarios/31_Return_To_Wesnoth.cfg:278
 msgid "Haldar! How did you get here?"
-msgstr "Halder！ ここまで、どうやって？"
+msgstr "Haldar！ ここまで、どうやって？"
 
 #. [message]: speaker=HR
 #: war_and_home/scenarios/31_Return_To_Wesnoth.cfg:282
@@ -5768,9 +5828,9 @@ msgstr ""
 "名の古参兵の援助が必要で、僕がその部隊を率いることを町の司令官に提案しまし"
 "た。司令官はあっさりと快諾してくれました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/32_Like_Waves_Upon_The_Rocks.cfg:150
-#, fuzzy
 msgid ""
 "And so we headed to the Ford, Haldar and Wolfie standing beside Anówien, "
 "happy to be reunited, while Elaessa was with me at the head of the human "
@@ -6104,7 +6164,7 @@ msgid ""
 "garrison has sent us reinforcements."
 msgstr ""
 "ええ、それに Grey Wood からの兵力も加わりますわ。住民の数こそ少ないけれど、今"
-"持って Ka'lian の所在地ですし、守備隊が援軍を送ってきています。"
+"もって Ka'lian の所在地ですし、守備隊が援軍を送ってきています。"
 
 #. [message]: speaker=CF
 #: war_and_home/scenarios/34_Battle_Of_Carcyn.cfg:268
@@ -6230,10 +6290,11 @@ msgstr "持ちこたえろ... 戦線で...　戦い... 続けるんだ！"
 msgid "The city will not hold without its commander!"
 msgstr "指揮官がいなくなったら、この都市を維持することなどできませぬ！"
 
+# for 1.1.1
 #. [label]
 #: war_and_home/scenarios/35_Elensefar.cfg:279
 msgid "Armoury"
-msgstr ""
+msgstr "武器庫"
 
 #. [message]: speaker=HL1
 #: war_and_home/scenarios/35_Elensefar.cfg:296
@@ -6257,7 +6318,7 @@ msgid ""
 "i> die."
 msgstr ""
 "あの悲劇、私の故郷に降り掛かった悲劇は二度と繰り返させません、あのオークたち"
-"は<I>死ぬことでしょう </I>。"
+"は<i>死ぬことでしょう </i>。"
 
 #. [message]: speaker=HL1
 #: war_and_home/scenarios/35_Elensefar.cfg:312
@@ -6267,7 +6328,7 @@ msgstr "天に感謝する、援軍が来たぞ！"
 #. [message]: speaker=CF
 #: war_and_home/scenarios/35_Elensefar.cfg:316
 msgid "We are here to help, Elensefar shall not fall today!"
-msgstr "支援にまりました、本日、Elensefar が陥落することなどありません！"
+msgstr "支援にまいりました、本日、Elensefar が陥落することなどありません！"
 
 #. [message]: speaker=OL2
 #: war_and_home/scenarios/35_Elensefar.cfg:320
@@ -6297,26 +6358,32 @@ msgstr "この城壁から奴らを押し出すには、役立つこととなり
 #. [message]: speaker=EA
 #: war_and_home/scenarios/35_Elensefar.cfg:365
 msgid "The question is, do we have the soldiers to spare?"
-msgstr "問題は、兵士の数に余裕があるかどうかでしょ？"
+msgstr "問題は、兵士の数に余裕があるかどうかなのでは？"
 
 #. [message]: speaker=HL1
 #: war_and_home/scenarios/35_Elensefar.cfg:369
 msgid "In any case, the option is there, should you wish to use it."
-msgstr "まあ、手段はあるのだから、使いたければ使えばよいのだよ。"
+msgstr "まあ、手段はあるのだから、使いたければ使うまでの話だろうな。"
 
+# for 1.1.1
 #. [note]
 #: war_and_home/scenarios/35_Elensefar.cfg:383
 msgid ""
 "A ferry links the pier and the docks (you can move units from sides 1 and 2 "
 "between them)."
 msgstr ""
+"フェリーは桟橋と船着場をつないでいます（第１チームと第２番チームのユニット"
+"は、銀魔術師のように２点間を瞬間移動できます）。"
 
+# for 1.1.1
 #. [note]
 #: war_and_home/scenarios/35_Elensefar.cfg:385
 msgid ""
 "A ferry links the pier and the docks (you can move units from side 1 between "
 "them)."
 msgstr ""
+"フェリーは桟橋と船着場をつないでいます（第１チームのユニットは、銀魔術師のよ"
+"うに２点間を瞬間移動できます）。"
 
 #. [message]: speaker=NG
 #: war_and_home/scenarios/35_Elensefar.cfg:419
@@ -6326,41 +6393,44 @@ msgstr "これ以上、敵の勢力が増したら、私たちに勝ち目はな
 
 #. [message]: speaker=NB
 #: war_and_home/scenarios/35_Elensefar.cfg:428
-#, fuzzy
 msgid "They are beaten, the day is ours and Elensefar is saved!"
 msgstr ""
-"奴らを倒したぞ、今日、この日は我らのものであり、この都市は救われたのだ！"
+"奴らを倒したぞ、今日、この日は我らと Elensefar のものであり、この都市は救われ"
+"たのだ！"
 
 #. [message]: speaker=HL1
 #: war_and_home/scenarios/35_Elensefar.cfg:432
 msgid "Indeed, and you have the whole city's gratitude!"
-msgstr "そうとも、この町全体が、全市民があなたがたに感謝している！"
+msgstr "そうとも、この町全体、全市民があなたがたに感謝している！"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/35_Elensefar.cfg:436
 msgid "Now let us head northward, to Wesmere and even further."
 msgstr "さあ、北方へと向かいましょう、Wesmere へ、そしてそのもっと先へ。"
 
+# for 1.1.1
 #. [message]: speaker=$unit.id
 #: war_and_home/scenarios/35_Elensefar.cfg:483
 msgid ""
 "Their armoury has some enchanted mail that they are willing to part with."
-msgstr ""
+msgstr "武器庫の中に、彼らが手放すつもりの魔法の鎖帷子があるぞ。"
 
+# for 1.1.1
 #. [option]
 #: war_and_home/scenarios/35_Elensefar.cfg:485
 msgid "I shall repay their generosity."
-msgstr ""
+msgstr "私が彼らの親切に報いてあげよう。"
 
+# for 1.1.1
 #. [option]
 #: war_and_home/scenarios/35_Elensefar.cfg:509
 msgid "Others will make better use of it."
-msgstr ""
+msgstr "他の者が使った方が役に立ちそうだ。"
 
 #. [scenario]: id=36_A_Legend_Of_The_Elves
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:6
 msgid "A Legend Of The Elves"
-msgstr "エルフの伝説"
+msgstr "エルフの伝説的存在"
 
 #. [side]: id=KL, type=Elvish High Lord
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:122
@@ -6390,7 +6460,7 @@ msgid ""
 "<i>A Legend Of The Elves</i>"
 msgstr ""
 "第36章\n"
-"<I>エルフの伝説 </i>"
+"<i>エルフの伝説的存在 </i>"
 
 #. [message]: speaker=EA
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:188
@@ -6408,7 +6478,7 @@ msgstr "なるほど、軍楽隊の準備をしよう。敵の注意を逸らし
 #. [message]: speaker=EA
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:196
 msgid "You— !... (<i>chuckles</i>)"
-msgstr "あらまあ！... （<i>..うふふ.. </I>）"
+msgstr "あらまあ！... （<i>..うふふ.. </i>）"
 
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:204
@@ -6417,7 +6487,7 @@ msgid ""
 "steel echo from up ahead.</i>)"
 msgstr ""
 "（<i>前方から、オークの叫び声や戦場ラッパの音が。更には、鋼鉄どうしがぶつかり"
-"合う音が響く。</I>）"
+"合う音が響く。</i>）"
 
 #. [message]: speaker=NG
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:208
@@ -6447,7 +6517,7 @@ msgid ""
 "(<i>She, like the other elves, bows</i>) High lord Kalenz, it is an honor to "
 "meet you."
 msgstr ""
-"(<I>他のエルフたちと同様にお辞儀をして </i>) Kalentz 閣下、お会いできて光栄で"
+"(<i>他のエルフたちと同様にお辞儀をして </i>) Kalentz 閣下、お会いできて光栄で"
 "す。"
 
 #. [message]: speaker=KL
@@ -6480,7 +6550,7 @@ msgstr ""
 #. [message]: speaker=NG
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:334
 msgid "W—was that <i>the</i> Kalenz?"
-msgstr "い、今の人物は <I>あの </I> Kalentz だったの？"
+msgstr "い、今の人物は <i>あの </i> Kalentz だったの？"
 
 #. [message]: speaker=EN
 #: war_and_home/scenarios/36_A_Legend_Of_The_Elves.cfg:338
@@ -6510,7 +6580,7 @@ msgid ""
 msgstr ""
 "エルフの英雄と出会うとは、誰一人として考えていませんでした。最初は言葉を発す"
 "ることすら忘れてしまいましたが、真の伝説が自分たちのそばで戦っていることを知"
-"り、全員の心は急速に、新たな決意で満たされました。\n"
+"り、全員の心は急速に新たな決意で満たされました。\n"
 "\n"
 "そして彼らは Wesmere の西でハート山脈の南に位置する、オークの主要都市 "
 "Glamdrol へと向かって行きました。"
@@ -6542,7 +6612,7 @@ msgid ""
 "<i>Flames Over Glamdrol</i>"
 msgstr ""
 "第37章\n"
-"<I>Glamdrol を覆う炎 </i>"
+"<i>Glamdrol を覆う炎 </i>"
 
 #. [message]: speaker=B2
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:191
@@ -6561,7 +6631,7 @@ msgstr ""
 #. [message]: speaker=EN
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:199
 msgid "Forward, storm their battlements, we shall take this city!"
-msgstr "前進せよ、城の<b>狭間</b>を狙え、この都市を奪うのだ！"
+msgstr "前進せよ。城の<b>狭間</b>を狙え。この都市を奪うのだ！"
 
 #. [message]: speaker=EA
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:214
@@ -6578,14 +6648,15 @@ msgstr "持ちこたえよ、偉大なる首領 Vroda...バンザ..あぅー！"
 msgid "Their commander is dead! They will not hold after this."
 msgstr "敵の司令官は死んだわ！すぐに崩壊することでしょう。"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:237
-#, fuzzy
 msgid ""
 "Then let us finish here and head to Wesmere for we have a new campaign to "
 "plan."
 msgstr ""
-"それでは、我々は Wesmere へ向かいましょう、新たな軍事計画が待っています。"
+"それでは、ここでの用事を片付けて Wesmere へ向かいましょう。新たな作戦立案の仕"
+"事が待ってますからね。"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:241
@@ -6611,7 +6682,7 @@ msgstr ""
 "回復と、次なる作戦を練りました。今や、西方の安全は確保されたのです。\n"
 "\n"
 "彼らの頭の中は、そうしたことでいっぱいだったのですが、ある歓迎すべき出来事に"
-"よって、気分を晴らせたのです。"
+"よって気分を晴らせたのです。"
 
 #. [part]
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:90
@@ -6642,13 +6713,14 @@ msgstr ""
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:152
 msgid "Hey, that's mean... True, but mean... Oh hello lady Anówien!"
 msgstr ""
-"おい、何てことを... まあ、その通りだけど... おや、こんにちは Anówien 様！"
+"おい、何てことを... まあ、その通りだけど... おや、Anówien 様だ、こんにちは！"
 
 # speakder= ES ではなくて EA では？
 #. [message]: speaker=EA
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:156
 msgid "Ha, you are quite funny... (<i>She notices</i>) M—mother!"
-msgstr "ははは、馬鹿なことを言って... （<i>気づいて... <i>）お、お母さま！"
+msgstr ""
+"あら、馬鹿なこと言わないで... （<i>Anówien に気付いて <i>）お、お母さま！"
 
 #. [message]: speaker=ES
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:175
@@ -6656,8 +6728,8 @@ msgid ""
 "Finally, you took quite some time before arriving... and here are the others "
 "as well."
 msgstr ""
-"やっとお着きになった、到着するまでに随分と時間がかかりましたね... 他の方々も"
-"ご一緒ですね。"
+"やっとお着きになったわね、到着するまでに随分と時間がかかったようで... 他の"
+"方々もご一緒ですね。"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:217
@@ -6670,8 +6742,8 @@ msgid ""
 "Good, there are a few people you should see before the war council. They "
 "should be arriving soon... And here come the first!"
 msgstr ""
-"よかったわ、戦争評議会の前に会っておく人たちが何名かいるのです。そろそろ着く"
-"はずですが... あ、一人目がやってきましたわ！"
+"よかったわ、作戦会議の前に会っておく人たちが何名かいるのです。そろそろ着くは"
+"ずですが... あ、一人目がやってきましたわ！"
 
 #. [message]: speaker=EA
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:235
@@ -6689,13 +6761,13 @@ msgid ""
 "(<i>Pointing at Caror</i>) He is the one, by the way... Although you could "
 "have guessed as he is the only one without an elf at his side."
 msgstr ""
-"（<i>Caror を指さして </i>） ところで、あの男性がね... 多分、分かるとは思うけ"
-"ど、そばにエルフが一人もいないのは彼だけだし。"
+"（<i>Caror を指さして </i>） そうそう、あの男性が例の... まあ、察しはつくと思"
+"うけど、そばにエルフが一人もいないのは彼だけだし。"
 
 #. [message]: speaker=CF
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:262
 msgid "Uhh..."
-msgstr "うーん..."
+msgstr "えーと..."
 
 #. [message]: speaker=EA
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:266
@@ -6706,7 +6778,7 @@ msgstr "お、お母さま！"
 #. [message]: speaker=HR
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:270
 msgid "I see. You did say he was an upstanding young man, right?"
-msgstr "なるほどね。彼は頑強な若者だって、君が言ってたよな？"
+msgstr "なるほどね。彼は立派な青年だって、君が言ってたよな？"
 
 #. [message]: speaker=ES
 #: war_and_home/scenarios/38_Reunion_In_Wesmere.cfg:274
@@ -6739,16 +6811,19 @@ msgid ""
 msgstr ""
 "やあ、皆さん... またお会いできるなんて、とっても光栄ですよ。お元気でしたか？"
 
+# for 1.1.1
 #. [scenario]: id=39_War_Council
 #: war_and_home/scenarios/39_War_Council.cfg:6
 msgid "War Council"
-msgstr ""
+msgstr "作戦会議"
 
+# for 1.1.1
 #. [side]: id=EL1, type=Elvish Marshal
 #: war_and_home/scenarios/39_War_Council.cfg:159
 msgid "Ka'lian"
-msgstr ""
+msgstr "Ka'lian"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/39_War_Council.cfg:181
 msgid ""
@@ -6758,7 +6833,13 @@ msgid ""
 "This short amount of time was far from enough, however, and we resolved to "
 "countinue our discussions afterwards."
 msgstr ""
+"この予期せぬ再会は、Caror 、Merynian、Oweomyr、Lumiclya、そして Isandir を大"
+"いに喜ばせました。会議が始まるまで僕たちはずっと語り合ったのです。\n"
+"\n"
+"でもこの短い時間だけでは到底語り尽くせず、会議が終わってから改めて議論を続け"
+"ることにしました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/39_War_Council.cfg:186
 msgid ""
@@ -6768,62 +6849,84 @@ msgid ""
 "\n"
 "And now, we would begin planning the counter-offensive besides them."
 msgstr ""
+"Ka'lianは、少なくとも我々人間にとっては畏敬の念を抱かせる存在でした。僕たちが"
+"目にしている者たちは大陸で最も古くて最も賢い存在であり、人類がここの岸に辿り"
+"着く以前から伝わる装束を身にまとっていました。\n"
+"\n"
+"そして今、僕らは彼らとともに反撃のための作戦を練り始めようとしているのです。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/39_War_Council.cfg:191
-#, fuzzy
 msgid ""
 "Chapter Thirty-Nine\n"
 "<i>War Council</i>"
 msgstr ""
-"第35章\n"
-"<i>Elensefar </i>"
+"第39章\n"
+"<i>作戦会議 </i>"
 
+# for 1.1.1
 #. [message]: speaker=EL1
 #: war_and_home/scenarios/39_War_Council.cfg:210
 msgid ""
 "We humbly welcome you amongst us, Princess Lumiclya. Know that we grieve the "
 "loss of our kin as well and will spare no effort to see Lintanir retaken."
 msgstr ""
+"Lumiclya 王女、あなた様を謹んでお迎えいたします。同胞を失った悲しみを私どもも"
+"共にして参ります。Lintanir 奪還のため、全力を尽くす所存です。"
 
+# for 1.1.1
 #. [message]: speaker=EL2
 #: war_and_home/scenarios/39_War_Council.cfg:214
 msgid ""
 "It seems you have already assembled quite a force and some mighty allies."
 msgstr ""
+"既に、かなりの兵力を結集なさり、更には強力な同盟者も獲得されていらっしゃるの"
+"ですね。"
 
+# for 1.1.1
+# Check:   typo  endavour -> endeavour / endeavor
 #. [message]: speaker=EP
 #: war_and_home/scenarios/39_War_Council.cfg:219
 msgid ""
 "We thank you for your concern. Let us now all endavour to push the orcs back "
 "as fast as possible."
 msgstr ""
+"お気遣いありがとう。さあ、今こそ全員の力を合わせて、オークをできるだけ早く撃"
+"退しましょう。"
 
+# for 1.1.1
 #. [message]: speaker=AS
 #: war_and_home/scenarios/39_War_Council.cfg:223
 msgid "We shall all strive to accomplish this. Now, let us begin to plan."
 msgstr ""
+"私たち全員が、作戦を成し遂げるべく尽力いたします。さあ、計画を練りましょう。"
 
+# for 1.1.1
 #. [scenario]: id=40_Doors_Of_Knalga
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:7
 msgid "Doors of Knalga"
-msgstr ""
+msgstr "Knalga の戸口"
 
+# for 1.1.1
 #. [side]: id=HL2, type=Ranger
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:148
 msgid "Dwarven Doors"
-msgstr ""
+msgstr "ドワーフの戸口"
 
+# for 1.1.1
 #. [side]: id=HL2, type=Ranger
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:153
 msgid "Rhenyc"
-msgstr ""
+msgstr "Rhenyc"
 
+# for 1.1.1
 #. [side]
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:184
 msgid "Knalga"
-msgstr ""
+msgstr "Knalga"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:314
 msgid ""
@@ -6835,7 +6938,14 @@ msgid ""
 "Afterwards, it would start freeing the land from orcish subjugation, "
 "beginning with Merlyc before heading North, to Lintanir forest."
 msgstr ""
+"戦争の次の段階に向けた計画が遂に確定しました。Wesnoth と Lintanir の連合軍"
+"は、占領された領土を解放するために東と北へ向かいます。\n"
+"\n"
+"まず Knalga の状況を把握し、必要に応じて支援します。その後、オークの支配下に"
+"ある土地を解放する作戦を開始します。 手始めに Merlyc 、そして北方の Lintanir "
+"の森へと進めていきます。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:319
 msgid ""
@@ -6849,73 +6959,101 @@ msgid ""
 "With these plans we set forth, headed to Dwarven Doors and Knalga, to "
 "provide aid and to start pushing back the orcs."
 msgstr ""
+"Wesmere 軍は西方の峠での戦闘へ、Wesnoth 軍は予備軍として待機するとともに東方"
+"での戦闘支援に当たります。そのため、両軍とも僕たちの部隊に多くの兵は割けず、"
+"また、Nilmadia と Sidry は、それぞれ元の配置へ戻ることになります。しかし２人"
+"の軍は物資を提供してくれるほか、各貴族家の血気盛んな若者たちの一部が軍に加わ"
+"ることで、より直接的に僕たちを支援することを選ぶこととなりました。\n"
+"\n"
+"こうした計画のもと、僕たちはドワーフの戸口と Knalga を目指して進軍を開始しま"
+"した。彼らへの支援と、オークを後退させ始めることが目的です。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:324
-#, fuzzy
 msgid ""
 "Chapter Fourty\n"
 "<i>Doors of Knalga</i>"
 msgstr ""
-"第4章\n"
-"<i>Lintanir への道 </i>"
+"第40章\n"
+"<i>Knalga の戸口 </i>"
 
+# for 1.1.1
 #. [message]: speaker=HL2
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:346
-#, fuzzy
 msgid "Hold the line! The dwarfs will be here soon!"
-msgstr "頑張るんだ！数日すれば主力部隊が到着するからな！"
+msgstr "戦線を維持するんだ！ドワーフ軍がもうすぐ来るからな！"
 
+# for 1.1.1
 #. [message]: speaker=OL2
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:350
 msgid "Your people will die and so will the dwarves!"
-msgstr ""
+msgstr "お前たちもドワーフどもも、皆殺しにしてやる！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:354
 msgid ""
 "The humans have been pushed back quite far and there are no signs of the "
 "dwarves. This looks grim."
 msgstr ""
+"人間の軍隊はかなりの後退を余儀なくされ、ドワーフの姿も見当たらない。かなり厳"
+"しい状況だ。"
 
+# for 1.1.1
 #. [message]: speaker=NG
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:358
 msgid "They will not fall today. We <i>are</i> here, after all."
 msgstr ""
+"今日はまだ陥落などしませんわ。だって、<i>私たちがここにいる </i>のですから。"
 
+# for 1.1.1
 #. [message]: speaker=OL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:362
 msgid "Oh my, more fools to play with. I will handle them."
-msgstr ""
+msgstr "おやおや、愚かな遊び相手が増えたな、俺が相手をしてやるぜ。"
 
+# for 1.1.1
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:366
 msgid ""
 "Because of the reinforcements from the Ka'lian, Lumiclya and Anówien can now "
 "recruit elvish nobles."
 msgstr ""
+"Ka'lian からの援軍が来たことで Lumiclya と Anówien はエルフの貴族を雇用できる"
+"ようになりました。"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:379
 msgid ""
 "They will have too much time to fortify their positions at Merlyc, it will "
 "be a slaughter we cannot afford!"
 msgstr ""
+"彼らは Merlyc で陣地固めに時間が掛かりすぎている。これでは耐え難いほどのO犠牲"
+"が出てしまう！"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:391
 msgid ""
 "Finally, their leaders are dead. Now we need only kill the scattered "
 "remnants."
 msgstr ""
+"ついに奴らのリーダーたちをやっつけた。よし、あとは散り散りになった残党どもを"
+"始末するだけだ。"
 
+# for 1.1.1
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:395
 msgid ""
 "I thank ye for yer help against the orcs. I assume, by your presence, that "
 "both Wesmere and Wesnoth march to war."
 msgstr ""
+"オークとの戦いでの支援に感謝する。二人がここにいるってことは、Wesmere 軍も "
+"Wesnoth 軍も戦いに行くってことだな。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:399
 msgid ""
@@ -6923,93 +7061,118 @@ msgid ""
 "possible. Any assistance your people could render would be greatly "
 "appreciated."
 msgstr ""
+"ええ、ご推察どおりです。できるだけ遠くまでオークを後退させるのが進軍の目的で"
+"す。あなたの民からの支援は、どのような形であれ大いに喜ばしいものとなるでしょ"
+"う。"
 
+# for 1.1.1
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:403
 msgid ""
 "Aye. I shall inform my king of the events of today. Best of luck to you."
-msgstr ""
+msgstr "よし、今日のことは我が王に報告する。あんたたちの幸運を祈るぞ。"
 
+# for 1.1.1
 #. [message]: speaker=HL2
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:415
 msgid "Don't give them any groun—!"
-msgstr ""
+msgstr "あいつらに、どんな隙も与えてはなら...んぞ！"
 
+# for 1.1.1
 #. [message]: id=OL1, OL2
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:419
 msgid "He's dead, now seize what remains of their fortifications!"
-msgstr ""
+msgstr "死にやがったぜ、さあ、あの要塞に残ってる奴らを包囲しちまえ！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:423
 msgid "It will take far too long to dislodge them from there!"
-msgstr ""
+msgstr "あそこから彼らを追い出すには、あまりにも時間が掛かりすぎるわ！"
 
+# for 1.1.1
+# ja: poeditでは警告が出るが、文末の「-」 は日本語訳には使用していない
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:437
 msgid "Hold, for Knalga, hol—"
-msgstr ""
+msgstr "Knalga をしっかり守れ、まも..."
 
+# for 1.1.1
 #. [message]: id=OL1, OL2
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:441
 msgid "Push forward, crush the dwarves!"
-msgstr ""
+msgstr "進め進め、ドワーフどもを殲滅しろ！"
 
+# for 1.1.1
 #. [message]: speaker=WM
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:445
 msgid "No... This will be a slaughter..."
-msgstr ""
+msgstr "なんてこと... このままでは大量虐殺だわ..."
 
+# for 1.1.1
 #. [message]: speaker=HR
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:463
 msgid "These orcs are quite strong. Progress is far too slow, I fear."
-msgstr ""
+msgstr "このオークどもはかなり手強いぞ。なかなか前進できない、心配だ。"
 
+# for 1.1.1
 #. [message]: speaker=ES
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:467
 msgid ""
 "Perhaps, but what can we do? We do not have more troops we can magically "
 "conjure from nothing."
 msgstr ""
+"かそうもしれませんが、私たちに何ができると言うのです？無から魔法で生み出され"
+"る兵士など、こちらにはいないのですから。"
 
+# for 1.1.1
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:477
 msgid ""
 "Suddenly, great noises rang out in the valley, a chorus of war horns "
 "bouncing off the mountainside..."
 msgstr ""
+"突然、谷間に轟音が響き渡りました。山肌に反響する無数の戦場ラッパの音が..."
 
+# for 1.1.1
 #. [message]: speaker=narrator
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:490
 msgid "And with them, the towering gates of Knalga opened."
-msgstr ""
+msgstr "そして同時に Knalga の聳え立つ門が開きました。"
 
+# for 1.1.1
 #. [unit]: id=DL1, type=Dwarvish Lord
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:503
 msgid "Nardring"
-msgstr ""
+msgstr "Nardring"
 
+# for 1.1.1
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:511
 msgid "Stand strong lads, let's get'em!"
-msgstr ""
+msgstr "よーし覚悟はいいか野郎ども、かかれー！"
 
+# for 1.1.1
 #. [message]: speaker=DL1
 #: war_and_home/scenarios/40_Doors_Of_Knalga.cfg:524
-#, fuzzy
 msgid "Wait... what do you mean the orcs are already defeated?"
-msgstr "それには時間がかかるな。オークどもが、もうここに来ている！"
+msgstr ""
+"おい、待て...　オークどもが倒されちまってるじゃないか、どういうことだ？"
 
+# for 1.1.1
+# 暫定
 #. [scenario]: id=41_Secure_Merlyc
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:7
 msgid "Secure Merlyc"
-msgstr ""
+msgstr "Merlyc 奪還"
 
+# for 1.1.1
 #. [note]
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:30
 msgid "The orcs will not leave their fortress."
-msgstr ""
+msgstr "オークたちは要塞から外には出てきません。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:249
 msgid ""
@@ -7020,7 +7183,13 @@ msgid ""
 "What a twist of fate it was for us to return to this place, the site of so "
 "many of our battles."
 msgstr ""
+"僕たちの後方の安全が確保され、ドワーフからの支援も約束できたし、Merlyc をオー"
+"クの手から解放し補給拠点とするため、東へと進軍を開始しました。\n"
+"\n"
+"数多の戦いを繰り広げたこの地へ再び戻ることになるとは、なんと皮肉な運命なので"
+"しょう。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:254
 msgid ""
@@ -7030,146 +7199,195 @@ msgid ""
 "We nonetheless had no choice but to assault it to advance and thus our army "
 "readied itself for a pitched battle."
 msgstr ""
+"ところが、以前とは様子が全く違っていました。というのも、オークは壁を築き堀を"
+"巡らせて、街はすっかり城塞と化していたのです。\n"
+"\n"
+"しかし僕らに選択の余地はありません。前進するためには急襲するしかなく、激戦に"
+"向けて準備を始めました。"
 
+# for 1.1.1
+# 暫定
 #. [part]
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:259
-#, fuzzy
 msgid ""
 "Chapter Fourty-One\n"
 "<i>Secure Merlyc</i>"
 msgstr ""
-"第1章\n"
-"<i>救出 </i>"
+"第41章\n"
+"<i>Merlyc 奪還 </i>"
 
+# for 1.1.1
 #. [message]: speaker=NG
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:277
 msgid ""
 "And so we return to Merlyc once more. After this I shall be quite happy to "
 "never see it again."
 msgstr ""
+"こうして僕たちはもう一度 Merlyc に戻ったんだ。これから先、こんなことは二度と"
+"ないようにと願うばかりさ。"
 
+# for 1.1.1
 #. [message]: speaker=CF
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:281
 msgid ""
 "But you know it so well, you'll probably be named garrison commander! And "
 "it's so close to Lintanir! Isandir can visit all the time!"
 msgstr ""
+"だが君は、Merlyc を熟知してるから、そこの守備隊司令官に任命されるのは間違いな"
+"いだろうな！ それに Lintanir にけっこう近いんだよ！ Isandir がしょっちゅう遊"
+"びに来るだろうな！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:285
 msgid "(<i>Synchronized, their faces reddening</i>) S—shut up!"
-msgstr ""
+msgstr "(<i>周囲の者たちが一斉に顔を赤らめたのを見て... </i>) だ、黙れ！"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:289
 msgid "That uh... that joke works on you as well, you do know that, right?"
-msgstr ""
+msgstr "あのな... その冗談は君らにも言えるんだ、分かってるよな、だろ？"
 
+# for 1.1.1
 #. [message]: speaker=CF
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:293
 msgid ""
 "And on you too, though you'll probably be the one visiting others instead. "
 "I'd bet Lumiclya will be busier than you."
 msgstr ""
+"それから君にも、だろ？　まあ、君はあちこちに通うことになるだろうな。だが、"
+"Lumiclya のほうが、もっと忙しくなるだろうな。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:297
 msgid "(<i>Both of them redden as well</i>) S—shut up!"
-msgstr ""
+msgstr "（<i>二人とも、同時に赤面する </i>）だ、黙りなさい！"
 
+# for 1.1.1
 #. [message]: speaker=HR
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:301
 msgid ""
 "(<i>To Anówien</i>) It seems he has developed some immunity to such attacks, "
 "no doubt thanks to you."
 msgstr ""
+"(<i>Anówien に向かって </i>) どうやら彼は、こういう攻撃にはそれなりの免疫がで"
+"きたようだ。間違いなく君のおかげだな。"
 
+# for 1.1.1
 #. [message]: speaker=ES
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:305
 msgid "Undoubtedly, though our dear daughter has not yet done so."
-msgstr ""
+msgstr "ですわね。でも、我が家の可愛い娘は、まだまだのようですけどね。"
 
+# for 1.1.1
 #. [message]: speaker=EA
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:309
 msgid ""
 "(<i>Her face beet-red</i>) Mother!... Perhaps we should focus on the battle "
 "ahead instead."
 msgstr ""
+"(<i>顔を真っ赤にして </i>) お母様!... そんなことより、もうすぐに始まる戦いの"
+"ことに集中すべきだわ。"
 
+# for 1.1.1
 #. [message]: speaker=HR
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:319
 msgid ""
 "They are too well entrenched. We will not be able to take this before their "
 "reinforcements arrive or our supplies run out."
 msgstr ""
+"奴らは陣地を強固すぎるほどに固めている。これでは、奴らの援軍が到着する前か、"
+"我々の補給が尽きる前に奪還するなど、到底無理だ。"
 
+# for 1.1.1
 #. [message]: speaker=B3
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:346
 msgid "Fools... so be it, taste my hammer! For the Great Chief!"
 msgstr ""
+"バカどもめが... いいだろう、オレの槌で叩き潰してやる！ 我が大族長のために！"
 
+# for 1.1.1
 #. [message]: speaker=B3
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:358
 msgid "Urk... no, master... If only reinforcements... had come..."
-msgstr ""
+msgstr "うぅ... もう... 御主人様... 援軍さえ... 来ていれば..."
 
+# for 1.1.1
 #. [message]: speaker=NG
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:365
 msgid "Merlyc is ours. We will eliminate the stragglers and then resupply."
 msgstr ""
+"Merlyc は私たちのものよ。敗残兵を掃討したのち、もう一度物資補給を行いましょ"
+"う。"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:369
 msgid "And then onwards, to the North... and Lintanir..."
-msgstr ""
+msgstr "それが終わったら、次は北方の...　Lintanir だ..."
 
+# for 1.1.1
 #. [message]: speaker=unit
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:384
-#, fuzzy
 msgid "The enemy's here!"
-msgstr "ここにはイノシシが！"
+msgstr "敵、発見！"
 
+# for 1.1.1
 #. [message]: speaker=second_unit
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:392
 msgid "Those fortifications are enormous!"
-msgstr ""
+msgstr "あの城塞、大きさが桁外れ！"
 
+# for 1.1.1
 #. [message]: speaker=B3
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:396
 msgid "You won't pass this fortress! We'll stop you here for the Great Chief!"
 msgstr ""
+"お前ら、この城塞は突破できんだろうな！ 大族長の命令だ、ここでお前らを食い止め"
+"てやるからよ！"
 
+# for 1.1.1
 #. [message]: speaker=WM
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:400
 msgid ""
 "They kept themselves busy indeed. I doubt they will venture out of the "
 "fortress to fight us."
 msgstr ""
+"奴ら、本当にずっと忙しそうでしたよね。あそこから外に出てきて戦う気は無いかも"
+"しれません。"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:404
 msgid "We will need to force our way in to take Merlyc back."
-msgstr ""
+msgstr "Merlyc を取り戻すには、強行突破すせざるを得ないだろうな。"
 
+# for 1.1.1
 #. [message]: id=OL1, OL2
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:429
 msgid ""
 "They are overrunning us, where are the reinforcements? They were supposed to "
 "be here a week ago!"
 msgstr ""
+"あいつら、俺たちを圧倒していやがる。こちらの援軍はどこにいるんだ？一週間前に"
+"は到着している筈だったのに！"
 
+# for 1.1.1
 #. [scenario]: id=43_Where_Monsters_Fought
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:7
 msgid "Where Monsters Fought"
-msgstr ""
+msgstr "モンスターたちの戦いの跡"
 
+# for 1.1.1
 #. [note]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:28
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:32
 msgid ""
 "Cost of movement on frozen terrain (snow, ice, etc.) is reduced to 2 "
 "movement points (if it was 3 or more)."
-msgstr ""
+msgstr "凍土（雪、氷等々）での移動コストが3以上のユニットは、2に軽減されます。"
 
 #. [side]: id=UL2, type=Revenant
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:202
@@ -7177,6 +7395,7 @@ msgstr ""
 msgid "Sidry"
 msgstr "Sidry"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:221
 msgid ""
@@ -7189,7 +7408,16 @@ msgid ""
 "survived, many others could not help but have a sinking feeling that "
 "something was deeply wrong."
 msgstr ""
+"Lintanir への道のりは驚くほど平穏で、オークの哨戒部隊と遭遇することなど殆どあ"
+"りませんでした。更に、前回の戦いで敵の援軍が全くなかったこともあって、オーク"
+"の駐屯部隊は壊滅したか、少なくとも孤立してしまったのではと期待させたので"
+"す。\n"
+"\n"
+"この状況は、多くのエルフが、愛する者たちが何はともあれ生き延びたのではと希望"
+"を持たせました。しかし一方では、何かが根本的におかしいという拭いがたい違和感"
+"を感じずにいられない者たちも少なくありませんでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:226
 msgid ""
@@ -7201,282 +7429,366 @@ msgid ""
 "However, while this made us quite concerned, it did not change our "
 "destination."
 msgstr ""
+"街に近づくにつれて、僕たちの不安はますます強まっていきました。各所で戦闘の痕"
+"跡は数多く見つかったものの、遺体だけは全く目にしなかったからです。森の様子も"
+"また、近づくに従って益々病んでいくように見え、中空の幹だけ残った木々が次々と"
+"増えていきました。\n"
+"\n"
+"ただ、こうした光景が大きな懸念を抱かせたとはいえ、僕たちの向かう先が変わるこ"
+"とはありませんでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:231
 msgid ""
 "And so, we stood before the gates of Lintanir much as we did before, wary of "
 "whatever we might find within."
 msgstr ""
+"そして僕たちは以前と同じように Lintanir の門の前に立ち、その内側で待ち受ける"
+"何ものかに対して、警戒は怠りませんでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:234
-#, fuzzy
 msgid ""
 "Chapter Fourty-Two\n"
 "<i>Where Monsters Fought</i>"
 msgstr ""
-"第23章\n"
-"<i>修道院 </i>"
+"第42章\n"
+"<i>モンスターたちの戦いの跡 </i>"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:256
 msgid "What happened here? The defenses have been rebuilt yet none man them?"
 msgstr ""
+"ここで何があったんだ？防衛施設は再建されたのに、誰も守備についていないのか？"
 
+# for 1.1.1
 #. [message]: speaker=NG
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:260
 msgid "We should proceed cautiou— Oh lords!"
-msgstr ""
+msgstr "慎重に進まなきゃ―　え！ 何なの！"
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:292
 msgid "Kill... Kill..! Kill!"
-msgstr ""
+msgstr "殺せ... 殺せ... 殺せ！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:312
-#, fuzzy
 msgid "No... This cannot be..."
-msgstr "なんでだ、あり得ねえ！"
+msgstr "嘘だ... あり得ない..."
 
+# for 1.1.1
 #. [message]: speaker=EA
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:316
 msgid "What monster could have done this?"
-msgstr ""
+msgstr "こんなことをするなんて、どんなモンスターなんでしょう？"
 
+# for 1.1.1
 #. [message]: speaker=ES
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:364
 msgid "To have raised so many... A great darkness is arrayed against us..."
 msgstr ""
+"こんなに多くのアンデッドが次々と... 巨大な闇が私たちの前に立ちはだかっている"
+"わ..."
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:368
 msgid "Let us grant them peace... and death to the one who raised them..."
-msgstr ""
+msgstr "この者たちに安らぎを与えましょう...そして、蘇らせた者には死を..."
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:385
 msgid "Fools! The orcs are here, you have only weakened us all!"
 msgstr ""
+"愚か者め！オークたちが現れたぞ。お前たちのやったことは、せいぜい我々を弱めた"
+"程度に過ぎん！"
 
+# for 1.1.1
 #. [message]: speaker=WM
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:396
 msgid ""
 "No, we are still fighting the undead! We will be surrounded! Oh lords, "
 "please help us!"
 msgstr ""
+"ダメよ、私たちはまだアンデッドと戦っているのよ！これでは包囲されてしまうわ！"
+"どうしよう、神さま、お助けください！"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:414
 msgid ""
 "You fools have ruined my control over these puppets! Fine then, face the "
 "orcs yourselves! They are already marching to retake this place!"
 msgstr ""
+"お前たち愚か者どもが、この操り人形どもへの支配を台無しにしやがったのだ！かま"
+"わんさ、オークどもと直接戦うがいい！奴らは既にこの地を奪還すべく進軍してい"
+"る！"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:451
 msgid "He will not escape! Send out patrols to find him, I want his head!"
 msgstr ""
+"あの者を逃がしてはいけません！捜索隊を出して探し出すのです、その首を持ってき"
+"なさい！"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:455
 msgid ""
 "Lumiclya, I am sorry but the orcs are undoubtedly coming, we must ready "
 "ourselves for them."
 msgstr ""
+"Lumiclya 様、申し訳ありませんが、オークは間違いなく迫っています。その備えを優"
+"先すべきです。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:459
 msgid "I— I know... damn it all, I know..."
-msgstr ""
+msgstr "わ、分かってます... だから... 分かっています..."
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:506
 msgid "What's all that racket?... Wait, who dares destroy my puppets!"
 msgstr ""
+"あの騒ぎは一体何だ？... 待て、我が操り人形たちを壊そうとしているのは誰だ！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:510
 msgid ""
 "The armies of Wesnoth and elvenkind, reclaiming Lintanir from your dark "
 "claws!"
 msgstr ""
+"Wesnoth とエルフの連合軍よ、Lintanir をあの者の闇の爪から奪還するのだ！"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:514
 msgid "Fools, this was the best way to fight the orcs."
-msgstr ""
+msgstr "愚かな者たちよ、これがオークと戦う最善の方法だったわけだ。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:518
-#, fuzzy
 msgid "You will die for this, foul monster!"
-msgstr "これ以上、民衆を恐怖に陥れるべきではない！"
+msgstr "お前は死ぬのです、忌まわしきモンスター！"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:522
 msgid ""
 "No, <i>you will</i>. (<i>To Turod</i>) And as for you, it seems you came "
 "back to lead my armies after all."
 msgstr ""
+"いいや、死ぬのは<i>お前たちの </i>ほうだ。 (<i>Turod に向かって</i>) それにお"
+"前にすれば、結局は俺様の軍隊を指揮するために戻ってきたようなものだ。"
 
+# for 1.1.1
 #. [objective]: condition=win
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:528
-#, fuzzy
 msgid "Defeat Mal Keshar"
-msgstr "Mal Keshar"
+msgstr "Mal Keshar を倒す"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:569
 msgid "Eärindel left us his sword... a final gift."
-msgstr ""
+msgstr "Eärindel は私たちにこの剣を残してくれました... 最後の贈り物として。"
 
+# for 1.1.1
 #. [option]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:571
-#, fuzzy
 msgid "I shall wield it... in his memory."
-msgstr "私はこの燃え立つ怒りを、誇りを持って振るうであろう。"
+msgstr "この剣は私が振るいます... 彼の思い出を胸に。"
 
+# for 1.1.1
 #. [option]
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:598
 msgid "Isandir trained with him in his youth... He will make better use of it."
 msgstr ""
+"Isandir は若い頃から鍛錬してきました... 彼ならきっと使いこなすでしょう。"
 
+# for 1.1.1
 #. [message]: speaker=unit
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:629
 msgid "Rooargh—"
-msgstr ""
+msgstr "ウォー"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:639
 msgid "No, my dragon! Foolish mortals, I will enjoy breaking you!"
 msgstr ""
+"やめろ、俺のドラゴンが...！ 愚かな人間どもめ、貴様ら、俺が叩きのめしてやる！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:643
 msgid "Good, we brought it down. Onwards, to the lich next!"
-msgstr ""
+msgstr "よし、倒してやったぞ。さあ、次はお前をやってやるぞ、リッチ！"
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:658
-#, fuzzy
 msgid "Prin...cess..."
-msgstr "残念です、王女様..."
+msgstr "王....女さま..."
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:662
 msgid "Eärindel... I shall free you from this, I swear."
-msgstr ""
+msgstr "Eärindel... その苦しみからあなたを解放します、必ず。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:675
 msgid "You have served long past what duty demanded. Go now, and rest."
 msgstr ""
+"あなたは長い間、求められる以上に私に尽くしてくれましたね。さあ、これからは安"
+"らぐことだけを考えてね。"
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:679
 msgid "Thank you... my Queen..."
-msgstr ""
+msgstr "感謝いたします... わが女王さま..."
 
+# for 1.1.1
 #. [message]: race=elf, human
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:698
 msgid "Eärindel... May you find peace."
-msgstr ""
+msgstr "Eärindel... 安らぎを得られますように。"
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:702
-#, fuzzy
 msgid "Death... Death...! Death!"
-msgstr "うぐぐ.... 退却するしかねえ！"
+msgstr "...死 ,,,死！ 死！"
 
+# for 1.1.1
 #. [message]: race=human, elf
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:721
 msgid "Go now, and finally rest."
-msgstr ""
+msgstr "さあ、行きなさい、やっと安らぎが得られる。"
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:725
 msgid "Thank you..."
-msgstr ""
+msgstr "ありがとう..."
 
+# for 1.1.1
 #. [message]: speaker=UL1
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:738
 msgid "Care... for her..."
-msgstr ""
+msgstr "彼女のこと... よろしくね..."
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:742
 msgid "Rest easy, for I shall do so."
-msgstr ""
+msgstr "ご安心を、私にお任せください。"
 
+# for 1.1.1
 #. [message]: race=elf, human
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:763
 msgid "General Sidry... We will free you from this wretched state."
-msgstr ""
+msgstr "Sidry 将軍... この惨めな状況から私たちが解放しますから。"
 
+# for 1.1.1
 #. [message]: speaker=UL2
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:767
 msgid "Hate... Hate...! Hate!"
-msgstr ""
+msgstr "憎悪... 憎しみ...！ 憎め！"
 
+# for 1.1.1
 #. [message]: speaker=UL2
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:780
 msgid "Protect... the realm..."
-msgstr ""
+msgstr "守るのだぞ... この国を..."
 
+# for 1.1.1
 #. [message]: race=human, elf
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:790
 msgid "We will, rest assured."
-msgstr ""
+msgstr "必ずや我々が、安心してお眠りください。"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:811
 msgid ""
 "I presume you were the one ruling over this ruin? Judging by the number of "
 "elven corpses when I arrived, you seem to have failed at that."
 msgstr ""
+"この廃墟一帯を支配していたのはお前だな？俺がここに着いたときのエルフの死体の"
+"数からすると、お前にはどうやら荷が重すぎたようだな。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:815
 msgid "Silence, foul monster! I will kill you for what you have dared do!"
 msgstr ""
+"黙りなさい、この下劣な化け物！無礼な所業、その命をもって償わせてあげるわ！"
 
+# for 1.1.1
+# ja:この fate を「アンデッドになること」と解釈すれば、次のセリフの「抗う」と符合する。
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:829
 msgid ""
 "You were meant to be the commander of these forces, it seems you have "
 "decided to face your fate!"
 msgstr ""
+"お前は本来、この軍勢を率いるはずだった男だったな。やっと、本当の「運命」に向"
+"き合うことを決意したというわけか！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:833
 msgid ""
 "No, I defy it! Today we will grant peace to all these souls you desecrated!"
-msgstr ""
+msgstr "馬鹿な、私は抗う！今日、お前が汚したすべての魂に安らぎを与えるのだ！"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:847
 msgid ""
 "You... you were the one who helped that fool! Without you he would have "
 "fallen far faster! You will pay for this!"
 msgstr ""
+"お前か... あの愚かな奴に手を貸しやがって！お前さえいなければ、あいつはさっさ"
+"と倒れていたはずだ！この礼は必ずするからな！"
 
+# for 1.1.1
 #. [message]: speaker=WM
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:851
 msgid "G—go back to the darkness, abomination! The light stands against you!"
 msgstr ""
+"闇へ、も、戻りなさい、忌まわしき者よ！　光が、お前の前に立ちはだかるだろう！"
 
+# for 1.1.1
 #. [message]: speaker=MK
 #: war_and_home/scenarios/43_Where_Monsters_Fought.cfg:883
 msgid "Come at me if you dare, I am in need of corpses for my forces!"
-msgstr ""
+msgstr "ほら、かかってこい、俺様は兵士となる死体がほしいんだ！"
 
+# for 1.1.1
 #. [scenario]: id=44_The_Final_Battle
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:6
 msgid "The Final Battle"
-msgstr ""
+msgstr "最終決戦"
 
+# for 1.1.1
+# check: typo  thorougly ->  thoroughly
 #. [part]
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:262
 msgid ""
@@ -7492,7 +7804,17 @@ msgid ""
 "the roads north, scouting for the orcs' inevitable arrival, providing "
 "valuable advance warning."
 msgstr ""
+"不死の穢れが完全に浄化されたあと、僕たちはオークの大群が到来するまでの限られ"
+"た期間を、陣地強化や街の修復、物資の調達に費やしました。\n"
+"\n"
+"この間、Knalga のドワーフたちはできる限りの物資を送ってくれたおかげで、資源が"
+"大幅に増強されることとなり、非常に感謝しました。\n"
+"\n"
+"同時に、Elzear の谷からグリフォンたちが北の道路を監視する様子が確認できました"
+"が、避けがたいオークの到来を偵察してくれたことで、貴重な早期警戒情報が得られ"
+"る状況でした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:269
 msgid ""
@@ -7503,7 +7825,14 @@ msgid ""
 "Soon after we all went to sleep as this would be a fight for which we would "
 "need all of our strength."
 msgstr ""
+"ついに最終決戦の前夜を迎えたときには、僕たちは少なくとも可能な限りの準備は"
+"整ったという自負がありました。夕方の大半を互いに語り合って過ごし、その後は小"
+"さなグループに分かれて過ごしました。\n"
+"\n"
+"やがて全員が眠りにつきました。この戦いは全ての力を結集させる必要があるに違い"
+"ないと思われたからです。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:274
 msgid ""
@@ -7516,137 +7845,177 @@ msgid ""
 "meant that it would be the last one. One more fight to break the horde and "
 "free ourselves from its threat."
 msgstr ""
+"夜明けを迎え、最後の闘いに向けて備えを整えました。やがて Vrodar とその配下の"
+"オークの軍勢が姿を現しました。前回の襲撃時よりもはるかに多く、その数は、おそ"
+"らく僕たちに先んじてリッチ討伐を考えていたからでしょう。\n"
+"\n"
+"この大軍は戦いを予想以上に厳しいものにすることでしょう。しかし同時に、これが"
+"最後の戦いになろうことも意味していました。オークの大群を打ち破って、その脅威"
+"から僕たち自身を解放する、最終決戦なのです。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:279
-#, fuzzy
 msgid ""
 "Chapter Fourty-Three\n"
 "<i>The Final Battle</i>"
 msgstr ""
-"第23章\n"
-"<i>修道院 </i>"
+"第43章\n"
+"<i>最終決戦 </i>"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:297
 msgid ""
 "So, the elves and humans have defeated those accursed undead. Well then, it "
 "is their turn to fall, as they did here once already."
 msgstr ""
+"おい、エルフと人間どもが、あの忌々しいアンデッドを倒しちまった。で、今度は倒"
+"される番ってわけだ、俺達にな。"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:301
 msgid ""
 "No, in the name of those whom you killed, we shall put you down. This, I "
 "swear!"
 msgstr ""
+"まさか。お前たちに殺された者たちの名において誓うわ、お前たちを必ずや打ち負か"
+"します！"
 
+# for 1.1.1
 #. [message]: speaker=EN
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:305
 msgid "The orcs shall pay for the death of our people."
-msgstr ""
+msgstr "オークは我が民の死に対して、代償を払うことになる。"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:309
 msgid "Meaningless bravado. You are surrounded, only death awaits you."
-msgstr ""
+msgstr "立派立派、虚勢も今のうちだ。お前らは包囲されている、死を待つのみだな。"
 
+# for 1.1.1
 #. [message]: speaker=NG
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:313
 msgid "Much like it awaited your underlings?"
-msgstr ""
+msgstr "死がお前たちの部下を待っているように、ってことかしら？"
 
+# for 1.1.1
 #. [message]: speaker=NB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:317
 msgid "You are alone, and you will die just like they did!"
-msgstr ""
+msgstr "お前たちは孤立状態だ。あとは、モンスターどものように死にゆくのみ！"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:321
 msgid ""
 "Pah, enough of this foolishness! Forward, grunts! Gold and glory to those "
 "who bring me an enemy leader's head!"
 msgstr ""
+"うるせえ、くだらん話はうんざりだ！　野郎ども、前進だ！あいつらのリーダーの首"
+"を持ってきた奴にはゴールドと栄誉をくれてやるぞ！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:325
-#, fuzzy
 msgid "Hold the line, soldiers, and the day will be ours!"
-msgstr "前進だ！奴らを皆殺しにして、領土をぶん取れ！"
+msgstr "兵士たち、戦線を固持せよ、そうすれば、勝利は我々のものだ！"
 
+# for 1.1.1
 #. [message]: speaker=CF
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:329
 msgid "Fight well, for Wesnoth and for Lintanir!"
-msgstr ""
+msgstr "全力でいけ、Wesnoth とLintanir のために！"
 
+# for 1.1.1
 #. [message]: speaker=ES
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:339
-#, fuzzy
 msgid "This is taking too long, our supplies will run out!"
-msgstr "時間がかかりすぎちまう、ボスに伝えてくれ!"
+msgstr "あなりに時間がかかりすぎて、物資がつきてしまうわ！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:348
 msgid "All their chieftains are dead, we have won the day!"
-msgstr "すべての首領は死んだ。我々は勝った!"
+msgstr "奴らのリーダー格は全員息絶えたぞ、我々の勝利だ！"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:352
 msgid "Indeed, and I do not believe they will return... Finally, this is over."
 msgstr ""
+"ほんとですね、もう戻ってくることはないでしょう... これでようやく終わりました"
+"ね。"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:383
 msgid ""
 "You're nothing but a cowardly princess who fled her city's fall only to "
 "return to die there!"
 msgstr ""
+"お前はただの臆病な王女にすぎんのだ、自分の街が陥落したら逃げ出しておいて、今"
+"度は死にに戻ってきたんだからな！"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:387
 msgid "Your head will roll for all those whom you killed!"
-msgstr ""
+msgstr "お前が奪ったすべての命の報いとして、その首を差し出してもらうわ！"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:400
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:434
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:483
-#, fuzzy
 msgid "No! This cannot be! Nooooo—!"
-msgstr "なんでだ、あり得ねえ！"
+msgstr "なんで俺様が、あり得ねえ！ ウォー！"
 
+# for 1.1.1
 #. [message]: speaker=EP
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:404
 msgid "Die, foul monster, and know all of your men will perish like you!"
 msgstr ""
+"お前は死ぬのです、忌まわしき怪物よ。そう、お前の手下たちも、同じ運命を辿るこ"
+"とになるでしょう！"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:417
 msgid ""
 "You're the one who held us back in the mountains! Seems like your death "
 "didn't last... ah well, I'll ensure it does now!"
 msgstr ""
+"お前、山で俺達の足を引っ張った野郎の一人だな！死んだと思ってたが…まあいい、今"
+"度こそ仕留めてやる！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:421
 msgid "No, today it is your turn to fall!"
-msgstr ""
+msgstr "いいや、今日こそ、お前が死ぬ番だ！"
 
+# for 1.1.1
 #. [message]: speaker=MC
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:438
 msgid "Finally... Their horde should not recover from this."
-msgstr ""
+msgstr "終わったな... 奴らの軍勢に、立て直せる余地はもうないだろう。"
 
+# for 1.1.1
 #. [message]: speaker=BB
 #: war_and_home/scenarios/44_The_Final_Battle.cfg:470
 msgid "Fools... so be it, face me and die!"
-msgstr ""
+msgstr "愚かな奴らめ... 上等だ、かかってこいよ、料理してやるぜ！"
 
+# for 1.1.1
 #. [scenario]: id=45_Epilogue
 #: war_and_home/scenarios/45_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "エピローグ"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:55
 msgid ""
@@ -7659,7 +8028,16 @@ msgid ""
 "inhospitable lands before us would do the deed quite efficiently, leaving "
 "naught but a few survivors to report to their Great Council in Barag Gór."
 msgstr ""
+"この勝利と Vrodar の死によって、その大群は終焉を迎えました。今や彼らはリー"
+"ダーも軍隊も失ったのです。その残兵たちは北へ追撃され、Bork 川を越え、Dorest "
+"と Prestim を過ぎて、静寂の森の端から死の砂漠（Desert of Death）まで逃げ延び"
+"ました。\n"
+"\n"
+"追撃はそこで終わりました。補給線が長く伸びきっていた上に、眼前に広がった過酷"
+"な土地が十分に効果的で、ほとんどの兵は討たれ、Barag Gór の大評議会へ報告した"
+"のはわずかな生存者だけとなったのです。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:60
 msgid ""
@@ -7674,7 +8052,18 @@ msgid ""
 "times long gone, those whose tales were oft sung in festivites and names "
 "bellowed as warcries, an honour she would surely soon receive."
 msgstr ""
+"オークの脅威が終焉を迎えてから、国の再建が本格的に始まったのです。特に "
+"Lintanir は Lumiclya の指導のもと、熱狂的とも言える活気の発信地となりました。"
+"他の王族同様に、自分の故郷をかつての栄光ある姿に戻すことを固く決心していまし"
+"た。\n"
+"\n"
+"そして、みんなが一つになって、それをやり遂げたのです。Lintanir は再度、慈悲深"
+"く線形性に優れた女王によって統治される、人々の心に畏敬を抱かせるほどの地とな"
+"りました。その女王は、悠久の昔に語り継がれた、祝祭で歌われ戦場ではその名が鬨"
+"の声として叫ばれた夕刊で高潔な指導者たちを人々に思い起こさせる存在―女王もま"
+"た、そうした者たちと肩を並べるような栄誉を受けるに違いありません。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:67
 msgid ""
@@ -7689,7 +8078,18 @@ msgid ""
 "as attested by how his vassals could often be heard grumbling he spent more "
 "time up North than managing his estates."
 msgstr ""
+"Lumiclya は、Listra 沿いおよび Lintanir 西方に定期的に哨戒隊を送り出し、街道"
+"を盗賊から守るとともに、脅威が問題として表面化する前に鎮圧するよう努めていま"
+"した。とりわけ、数世紀にわたって北の大地に姿を現すことを敢えてしなかったリッ"
+"チ、Mal Keshar を常に警戒していました。\n"
+"\n"
+"これらの地の治安確保については、彼女の慣れ親しんだ人物から支援を受けることに"
+"なります。家名と称号を継承した Oweomyr が、彼女を補佐する任を国王から命じられ"
+"たのです。彼はその使命を喜んで果たしました。その証拠に、彼の封臣たちが「領地"
+"の管理よりも北方にいる時間のほうが長い」と、しばしば愚痴をこぼしていたほどで"
+"した。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:74
 msgid ""
@@ -7700,7 +8100,13 @@ msgid ""
 "of their arable lands, as well as enhancing trades with other nations, "
 "whether the dwarves of Knalga or the elves of Lintanir."
 msgstr ""
+"しかし、そうした愚痴は、実のところ大した問題ではありませんでした。彼が不在の"
+"間も、妹が見事に家の所領を切り盛りし、皆の繁栄が続くよう万全を期していたから"
+"です。彼女は複数の分野で改革を主導しました。耕作可能な土地をより広く活用する"
+"ことで農産物を増やしとともに、Knalga のドワーフや Lintanir のエルフなど、他国"
+"との交易も強化していきました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:79
 msgid ""
@@ -7710,7 +8116,14 @@ msgid ""
 "oft spend much time with Merynian between royal meetings, and they seemed "
 "quite inseparable to the court."
 msgstr ""
+"エルフとの交易で彼女は Isandir の助力を得ることになります。彼は女王 Lumiclya "
+"からの特使として近隣の Weldyn に派遣され、Wesnoth 軍との連携を助けるととも"
+"に、同盟国に対して Lintanir を代表する役目を担っていました。\n"
+"\n"
+"彼は王族の会合の合間によく Merynian と多くの時間を過ごしており、宮廷では二人"
+"は常に一緒にいるようでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:84
 msgid ""
@@ -7725,7 +8138,18 @@ msgid ""
 "All this new activity led to an economic prosperity its villagers had seldom "
 "tasted before the war, and they were quite grateful for this new feeling."
 msgstr ""
+"戦争の後、Caror は各地を旅して、できる限り人々を助けていた時期もありました"
+"が、すぐに軍隊に戻ることになりました。しばらくして、Oweomyr と Merynian は、"
+"戦争での功績に対する報酬として受け取った Merlyc の領地を彼に譲ることを申し出"
+"て、彼はそれを受け入れました。\n"
+"\n"
+"彼の指導のもと、Merlyc は活気ある交易の中心地、かつ王軍の拠点として整備される"
+"こととなりました。\n"
+"\n"
+"こうした新たな活動の結果、戦争前にはほとんど味わったことのなかった経済的繁栄"
+"が村人たちにもたらされ、この新しい感覚に大いに感謝しました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:93
 msgid ""
@@ -7735,7 +8159,13 @@ msgid ""
 "these opportunies to watch over the wastelands to the east, often traveling "
 "besides her father."
 msgstr ""
+"Caror がこうした仕事を進めている間、Sylindë はその道中も、新たな住まいの広間"
+"でも、ずっと彼の傍らにいました。彼女は地域の偵察活動を手伝い、通常なら哨戒隊"
+"が一週間かけて行う範囲を一日で済ませられることもあるほどでした。こうした機会"
+"を利用して東方の荒野の警護を遂行し、しばしば父親と一緒に旅をすることもありま"
+"した。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:98
 msgid ""
@@ -7744,7 +8174,12 @@ msgid ""
 "them, though he ventured further west than before, often stopping in Merlyc, "
 "as always, Wolfie at his side."
 msgstr ""
+"Haldar は本当に、Listra の東にある村々を守る以前の仕事に戻っていました。\n"
+"そこでは村々の間を行き来する日々を送っていましたが、以前よりもさらに西へと足"
+"を延ばすこともあって、しばしば Merlyc に立ち寄りました。もちろん、そばには "
+"Wolfie がいました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:103
 msgid ""
@@ -7755,7 +8190,14 @@ msgid ""
 "before. Now, when she was not visiting Merlyc or Lintanir, she spent her "
 "time helping Elzear breathe new life into the wastelands."
 msgstr ""
+"Haldar は Anówien をなんとか説得し、一緒に南方へ向かうことに成功しました。彼"
+"女は Lintanir にはできるだけ多くのドルイドが必要だと感じていて、同行を断り続"
+"けていたのです。ところが、戦争によって予想外の状況がもたらされました。高度な"
+"技術を持った多くのドルイドが台頭することになり、はるかに多くの業務を任せられ"
+"る状況になったのです。今や、Merlyc や Lintanir を訪れていないとき、彼女は荒れ"
+"地に新たな命を吹き込む Elzear の手助けをして過ごしていたところでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:108
 msgid ""
@@ -7763,7 +8205,11 @@ msgid ""
 "seemed to spend more and more time in Merlyc with Sylindë and Caror, by the "
 "fireplace."
 msgstr ""
+"Wolfie は、当初は彼らと共に旅をしていましたが、年月が経つにつれ Merlyc にいる"
+"時間のほうが長くなり、Sylindë や Caror と暖炉のそばで過ごすことが多くなったよ"
+"うでした。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:113
 msgid ""
@@ -7771,7 +8217,11 @@ msgid ""
 "dedication to others and her mastery of healing magic undeniable. She moved "
 "quite a few times, and was finally named the high priestess of Soradoc."
 msgstr ""
+"Elaessa は正式に教会に戻り、他者への献身や、回復魔法の習熟ぶりは疑いようもな"
+"く、目覚ましい早さで昇進も重ねました。そして何度か転任を経て、ついに Soradoc "
+"の大司祭に任命されました。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:118
 msgid ""
@@ -7787,7 +8237,19 @@ msgid ""
 "suffused this place, as though it would keep on offering a place for the "
 "weary to rest and the hunted to hide."
 msgstr ""
+"僕はその後も軍に仕え続けて、王国のさまざまな拠点での指揮を任ぜられて各地を渡"
+"り歩きました。やがて、 Wesnoth 王 Garard 一世陛下の顧問に任命されました。とこ"
+"ろがあるとき、Soradoc の指揮官就任を打診され、有り難くお受けしました。という"
+"のも、Elaessa と私の双方が、任地の調整に伴う煩わしさに、既に辟易としていたか"
+"らです。\n"
+"\n"
+"ある日、私は Haldar や Elaessa とともに、あの洞窟の神殿――彼女と私が影と戦い、"
+"奇妙な精霊と出会った場所――を再び訪れました。そこには、もはや何も残されておら"
+"ず、むき出しの床が広がっているだけでしたが、それでもなお、この場所には静かな"
+"安らぎの気配が満ちていました。まるで、疲れ果てた者に休息を与え、追われる者に"
+"身を隠す場を、これからも与え続けるかのように。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:125
 msgid ""
@@ -7806,7 +8268,23 @@ msgid ""
 "resting place was. We proceeded to leave as well, unsure of what we had "
 "seen, though confident that we had done the right thing."
 msgstr ""
+"Haldar の助言に従って僕は、かつてここで授けられた剣を、無機質な石の床に突き立"
+"てました。...刃はそのまま微動だにせず何の反応も示さない、と思った次の瞬間、い"
+"つかのように再び光り始め強い閃光が飛び出し、温かな光が部屋全体を包み込みまし"
+"た。\n"
+"\n"
+"光とともに僕たちの前に姿を現したのは精霊でした。光を身にまとい揺らめいてい"
+"て、それはまるで、遠い昔に失われた何かの残響のように思えるようなものでし"
+"た。\n"
+"\n"
+"<i>お返しくださったことに感謝します。もしもいつかまた必要なときには、他の誰か"
+"がこの剣を見つけて振るわれんことを願っています。 </i>\n"
+"\n"
+"その言葉を残して精霊は姿を消し、安らぎの場所へと戻っていきました。僕らもま"
+"た、いま目にしたものが何だったかは分からぬまま、その場を後にしました。正しい"
+"ことをしたのだという確信を胸に。"
 
+# for 1.1.1
 #. [part]
 #: war_and_home/scenarios/45_Epilogue.cfg:136
 msgid ""
@@ -7814,6 +8292,9 @@ msgid ""
 "proved able to overcome these trials and in the end, found our own happiness "
 "in these lands."
 msgstr ""
+"最後に振り返ってみると、僕らは、予期せぬ戦いと多くの苦難に直面しながらも、そ"
+"れらを乗り越えることができたのです。そして最後にはそれぞれの地で、それぞれの"
+"幸せを手にすることができたのです。"
 
 #. [unit_type]: id=Adventuring Noble, gender=female, race=human
 #: war_and_home/units/Adventuring_Noble.cfg:7
@@ -7850,7 +8331,7 @@ msgstr "ファイアボール"
 #. [unit_type]: id=Autumn Shyde, race=elf, gender=female
 #: war_and_home/units/Autumn_Shyde.cfg:8
 msgid "Autumn Shyde"
-msgstr "Autumn Shyde"
+msgstr "秋のシェード"
 
 #. [unit_type]: id=Autumn Shyde, race=elf, gender=female
 #: war_and_home/units/Autumn_Shyde.cfg:24
@@ -7888,7 +8369,7 @@ msgstr "生意気貴族"
 #. [unit_type]: id=Elvish Princess, race=elf, gender=female
 #: war_and_home/units/Elvish_Princess.cfg:8
 msgid "female^Elvish High Lady"
-msgstr "エルフ大貴婦人"
+msgstr "エルフの大貴婦人"
 
 #. [unit_type]: id=Elvish Princess, race=elf, gender=female
 #: war_and_home/units/Elvish_Princess.cfg:21
@@ -8012,8 +8493,8 @@ msgstr ""
 "した子供たちの多くは聖職者が管理する孤児院で育てられ、成人すると、他のこうし"
 "た子供たちが戸口に取り残されたままとならないように、何らかの形で手助けをしよ"
 "うと入信することも稀ではありません。\n"
-"まだ一人前の白魔術師ではありませんが、モーンチャイルドは光を召喚し、友人を癒"
-"したり、敵を追い払ったりすることができます。"
+"まだ一人前の白魔術師ではありませんが、モーンチャイルド（Mornchild）は光を召喚"
+"し、友人を癒したり、敵を追い払ったりすることができます。"
 
 #. [unit_type]: id=Noble Knight
 #: war_and_home/units/Noble_Knight.cfg:7
@@ -8106,6 +8587,8 @@ msgid ""
 "into a soothing balm or a stout shield should they find something they wish "
 "to protect."
 msgstr ""
+"冬のシェード（Winter Shyde）\n"
+"\n"
 "多くのシェードが故郷の森の化身へとなる一方で、彼女たちが保護する土地の、ある"
 "一面に心を惹かれる者たちがいます。北の森林地帯では特に、居住する氷河の雪や氷"
 "の冷たさに魅せられるのです。その厳冬の猛威を体現し、凍える敵たちへ吹雪の神髄"
@@ -8166,8 +8649,7 @@ msgid "Sylindë"
 msgstr "Sylindë"
 
 #. [effect]: type=cold
-#: war_and_home/utils/characters.cfg:225
-#: war_and_home/utils/characters.cfg:241
+#: war_and_home/utils/characters.cfg:225 war_and_home/utils/characters.cfg:241
 msgid "ice arrow"
 msgstr "氷箭"
 
@@ -8290,8 +8772,8 @@ msgstr "自軍・同盟軍を含む忠義・忠誠ユニットとリーダーの
 #. [trait]: id=fading_2
 #. [trait]: id=fading_3
 #. [trait]: id=fading_4
-#: war_and_home/utils/traits.cfg:8 war_and_home/utils/traits.cfg:35
-#: war_and_home/utils/traits.cfg:62 war_and_home/utils/traits.cfg:89
+#: war_and_home/utils/traits.cfg:8 war_and_home/utils/traits.cfg:35
+#: war_and_home/utils/traits.cfg:62 war_and_home/utils/traits.cfg:89
 msgid "fading"
 msgstr "衰弱"
 
@@ -8299,8 +8781,8 @@ msgstr "衰弱"
 #. [trait]: id=fading_2
 #. [trait]: id=fading_3
 #. [trait]: id=fading_4
-#: war_and_home/utils/traits.cfg:9 war_and_home/utils/traits.cfg:36
-#: war_and_home/utils/traits.cfg:63 war_and_home/utils/traits.cfg:90
+#: war_and_home/utils/traits.cfg:9 war_and_home/utils/traits.cfg:36
+#: war_and_home/utils/traits.cfg:63 war_and_home/utils/traits.cfg:90
 msgid ""
 "<i>Fading</i> units are afflicted with an illness that saps their life "
 "force.\n"
