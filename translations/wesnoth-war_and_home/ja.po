@@ -379,10 +379,11 @@ msgid "Long March to Lintanir"
 msgstr "Lintanir への遥かな行軍"
 
 # for 1.1.1
+# fix:( )
 #. [achievement]: id=Story_9
 #: war_and_home/achievements.cfg:122
 msgid "Head north and free Lintanir from all those who would despoil it."
-msgstr "北へ進軍して、 略奪を謀る者たちから Lintanir を解放する。"
+msgstr "北へ進軍して、略奪を謀る者たちから Lintanir を解放する。"
 
 # for 1.1.1
 #. [achievement]: id=War_And_Home
@@ -1009,6 +1010,7 @@ msgstr ""
 "\n"
 "全員がとても良い関係を築き、卒業時には同じ連隊に配属されることになりました。"
 
+# changed:大首領
 #. [part]
 #: war_and_home/scenarios/03_Port_Assignement.cfg:174
 msgid ""
@@ -1031,7 +1033,7 @@ msgstr ""
 "Sydry 将軍の率いる軍隊が到着するまで待機し、安全を確保するよう命じられたので"
 "す。\n"
 "\n"
-"その後、北方エルフの訓練と、オークの活動活発化や新たな大族長の台頭の報告を確"
+"その後、北方エルフの訓練と、オークの活動活発化や新たな大首領の台頭の報告を確"
 "認するため、その軍隊と共に Lintanir に向かうことになりました。\n"
 "\n"
 "しかし、エルフもオークが、まさか川の北側で最初の敵となることはないだろうと"
@@ -1729,7 +1731,7 @@ msgid ""
 "mentor</i>) E—Eärindel, how..."
 msgstr ""
 "（<i>恩師を失ったことに心から衝撃を受け、その場に立ちすくむ王女 </i>） E... "
-"Eärindel、どうして...。"
+"Eärindel、どうしてこんなことに...。"
 
 #. [message]: speaker=HG2
 #: war_and_home/scenarios/07_The_North_Fall.cfg:385
@@ -2146,6 +2148,8 @@ msgid "Unexpected End"
 msgstr "予期せぬ終焉"
 
 # for 1.1.1
+# changed:大首領
+# fix: 麺 -> 面
 #. [part]
 #: war_and_home/scenarios/10B_Unexpected_End.cfg:65
 msgid ""
@@ -2156,8 +2160,8 @@ msgid ""
 "This unimaginable opportunity was used to its full effect, as the armies of "
 "Wesnoth and elvenkind pursued the orcs back to the Far North."
 msgstr ""
-"あらゆる麺で不利であったにも関わらず、Turod と Oweomyr のオークへの必死の後衛"
-"戦によってオークの大族長 Vrodar は倒れ、その後数カ月に及ぶ内紛の末にオークの"
+"あらゆる面で不利であったにも関わらず、Turod と Oweomyr のオークへの必死の後衛"
+"戦によってオークの大首領 Vrodar は倒れ、その後数カ月に及ぶ内紛の末にオークの"
 "侵攻軍は崩壊しました。\n"
 "\n"
 "この、想像を絶する好機は最大限に活かされ、Wesnoth とエルフ族の同盟軍がオーク"
@@ -6026,13 +6030,14 @@ msgid ""
 msgstr ""
 "人間どもがエルフの手を借りて、俺たちを押し返して来やがった！攻撃準備だ！"
 
+# changed:大首領
 #. [message]: speaker=OL
 #: war_and_home/scenarios/33_Cornered_And_Slain.cfg:171
 msgid ""
 "A shameful display... and to think that you were one of Great Chief Vrodar's "
 "most trusted servants."
 msgstr ""
-"醜態を晒したもんだぜ... あんた、大族長 Vrodar が一番信頼する部下の一人だって"
+"醜態を晒したもんだぜ... あんた、大首領 Vrodar が一番信頼する部下の一人だって"
 "のによ。"
 
 #. [message]: speaker=B1
@@ -6366,24 +6371,26 @@ msgid "In any case, the option is there, should you wish to use it."
 msgstr "まあ、手段はあるのだから、使いたければ使うまでの話だろうな。"
 
 # for 1.1.1
+# changed: 陣営
 #. [note]
 #: war_and_home/scenarios/35_Elensefar.cfg:383
 msgid ""
 "A ferry links the pier and the docks (you can move units from sides 1 and 2 "
 "between them)."
 msgstr ""
-"フェリーは桟橋と船着場をつないでいます（第１チームと第２番チームのユニット"
-"は、銀魔術師のように２点間を瞬間移動できます）。"
+"フェリーは桟橋と船着場をつないでいます（第１陣営と第２陣営のユニットは、銀魔"
+"術師のように２点間を瞬間移動できます）。"
 
 # for 1.1.1
+# changed: 陣営
 #. [note]
 #: war_and_home/scenarios/35_Elensefar.cfg:385
 msgid ""
 "A ferry links the pier and the docks (you can move units from side 1 between "
 "them)."
 msgstr ""
-"フェリーは桟橋と船着場をつないでいます（第１チームのユニットは、銀魔術師のよ"
-"うに２点間を瞬間移動できます）。"
+"フェリーは桟橋と船着場をつないでいます（第１陣営のユニットは、銀魔術師のよう"
+"に２点間を瞬間移動できます）。"
 
 #. [message]: speaker=NG
 #: war_and_home/scenarios/35_Elensefar.cfg:419
@@ -6638,10 +6645,11 @@ msgstr "前進せよ。城の<b>狭間</b>を狙え。この都市を奪うの�
 msgid "They have reinforcements! The siege will be broken, fall back!"
 msgstr "彼らの援軍が来る！ 包囲網が破られるわ！撤退よ！"
 
+# changed:大首領
 #. [message]: speaker=B2
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:226
 msgid "Hold, for Great Chief Vroda—Aargh!"
-msgstr "持ちこたえよ、偉大なる首領 Vroda...バンザ..あぅー！"
+msgstr "持ちこたえよ、大首領 Vroda...バンザ..あぅー！"
 
 #. [message]: speaker=EP
 #: war_and_home/scenarios/37_Flames_Over_Glamdrol.cfg:233
@@ -7302,11 +7310,12 @@ msgstr ""
 "我々の補給が尽きる前に奪還するなど、到底無理だ。"
 
 # for 1.1.1
+# changed:大首領
 #. [message]: speaker=B3
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:346
 msgid "Fools... so be it, taste my hammer! For the Great Chief!"
 msgstr ""
-"バカどもめが... いいだろう、オレの槌で叩き潰してやる！ 我が大族長のために！"
+"バカどもめが... いいだろう、オレの槌で叩き潰してやる！ 我が大首領のために！"
 
 # for 1.1.1
 #. [message]: speaker=B3
@@ -7341,11 +7350,12 @@ msgid "Those fortifications are enormous!"
 msgstr "あの城塞、大きさが桁外れ！"
 
 # for 1.1.1
+# changed:大首領
 #. [message]: speaker=B3
 #: war_and_home/scenarios/41_Secure_Merlyc.cfg:396
 msgid "You won't pass this fortress! We'll stop you here for the Great Chief!"
 msgstr ""
-"お前ら、この城塞は突破できんだろうな！ 大族長の命令だ、ここでお前らを食い止め"
+"お前ら、この城塞は突破できんだろうな！ 大首領の命令だ、ここでお前らを食い止め"
 "てやるからよ！"
 
 # for 1.1.1
